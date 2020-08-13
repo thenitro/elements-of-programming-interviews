@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\timur\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\timur\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ElementsOfProgrammingInterviews.-1205783870.00" t="ExcludeRecursive" />
+    <e p="D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews" t="IncludeFlat">
+      <e p="ElementsOfProgrammingInterviews" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ElementsOfProgrammingInterviews.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PrimitiveTypes" t="Include">
+          <e p="Problem_5_1.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ElementsOfProgrammingInterviews.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PrimitiveTypes" t="Include">
+          <e p="TestProblem_5_1.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tests.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\bin\Debug\Tests.dll
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\bin\Debug\Tests.pdb
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\bin\Debug\ElementsOfProgrammingInterviews.exe
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\bin\Debug\nunit.framework.dll
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\bin\Debug\ElementsOfProgrammingInterviews.pdb
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\bin\Debug\nunit.framework.xml
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\obj\Debug\Tests.csproj.CopyComplete
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\obj\Debug\Tests.dll
+D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews\Tests\obj\Debug\Tests.pdb
