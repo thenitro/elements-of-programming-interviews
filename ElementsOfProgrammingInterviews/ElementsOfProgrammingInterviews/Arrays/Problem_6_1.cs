@@ -1,6 +1,6 @@
 using System;
 
-namespace ElementsOfProgrammingInterviews.PrimitiveTypes
+namespace ElementsOfProgrammingInterviews.Arrays
 {
     public class Problem_6_1
     {

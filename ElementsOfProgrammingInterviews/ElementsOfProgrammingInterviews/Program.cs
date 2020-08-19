@@ -1,5 +1,4 @@
-﻿using ElementsOfProgrammingInterviews.PrimitiveTypes;
-
+﻿using ElementsOfProgrammingInterviews.Arrays;
 namespace ElementsOfProgrammingInterviews
 {
     internal class Program

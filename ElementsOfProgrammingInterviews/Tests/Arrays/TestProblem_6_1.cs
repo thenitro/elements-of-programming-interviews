@@ -1,3 +1,4 @@
+using ElementsOfProgrammingInterviews.Arrays;
 using ElementsOfProgrammingInterviews.PrimitiveTypes;
 using NUnit.Framework;
 
