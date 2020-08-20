@@ -8,6 +8,7 @@
         <e p="Arrays" t="Include">
           <e p="Problem_6_1.cs" t="Include" />
           <e p="Problem_6_11.cs" t="Include" />
+          <e p="Problem_6_17.cs" t="Include" />
           <e p="Problem_6_6.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
@@ -29,6 +30,7 @@
         <e p="Arrays" t="Include">
           <e p="TestProblem_6_1.cs" t="Include" />
           <e p="TestProblem_6_11.cs" t="Include" />
+          <e p="TestProblem_6_17.cs" t="Include" />
           <e p="TestProblem_6_6.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
