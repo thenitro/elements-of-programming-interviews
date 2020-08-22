@@ -27,6 +27,7 @@
         </e>
         <e p="Strings" t="Include">
           <e p="Problem_7_1.cs" t="Include" />
+          <e p="Problem_7_2.cs" t="Include" />
         </e>
       </e>
       <e p="ElementsOfProgrammingInterviews.sln" t="IncludeFlat" />
@@ -52,6 +53,7 @@
         </e>
         <e p="Strings" t="Include">
           <e p="TestProblem_7_1.cs" t="Include" />
+          <e p="TestProblem_7_2.cs" t="Include" />
         </e>
         <e p="Tests.csproj" t="IncludeRecursive" />
       </e>
