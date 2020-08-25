@@ -15,6 +15,10 @@
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="ElementsOfProgrammingInterviews.csproj" t="IncludeRecursive" />
+        <e p="LinkedLists" t="Include">
+          <e p="LinkedListNode.cs" t="Include" />
+          <e p="Problem_8_1.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="PrimitiveTypes" t="Include">
           <e p="Problem_5_1.cs" t="Include" />
@@ -43,6 +47,9 @@
           <e p="TestProblem_6_6.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
+        <e p="LinkedLists" t="Include">
+          <e p="TestProblem_8_1.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="PrimitiveTypes" t="Include">
           <e p="TestProblem_5_1.cs" t="Include" />
