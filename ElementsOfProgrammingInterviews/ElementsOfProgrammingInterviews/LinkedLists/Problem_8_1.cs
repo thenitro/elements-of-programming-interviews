@@ -1,5 +1,3 @@
-using System;
-
 namespace ElementsOfProgrammingInterviews.LinkedLists
 {
     public class Problem_8_1

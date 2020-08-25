@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d05b1bb5-3e10-43ba-95cd-bb5dfc1754bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_1.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,19 +15,35 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_1.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-10">
-                  <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+                <state relative-caret-position="69">
+                  <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
                   <folding>
-                    <marker date="1598328483595" expanded="true" signature="68:897" ph="{...}" />
-                    <marker date="1598328483595" expanded="true" signature="99:895" ph="{...}" />
-                    <marker date="1598328483595" expanded="true" signature="182:889" ph="{...}" />
-                    <marker date="1598328483595" expanded="true" signature="336:853" ph="{...}" />
-                    <marker date="1598328483595" expanded="true" signature="435:541" ph="{...}" />
-                    <marker date="1598328483595" expanded="true" signature="562:668" ph="{...}" />
-                    <marker date="1598328483595" expanded="true" signature="770:839" ph="{...}" />
+                    <marker date="1598329969233" expanded="true" signature="84:880" ph="{...}" />
+                    <marker date="1598329969233" expanded="true" signature="167:874" ph="{...}" />
+                    <marker date="1598329969233" expanded="true" signature="321:838" ph="{...}" />
+                    <marker date="1598329969233" expanded="true" signature="420:526" ph="{...}" />
+                    <marker date="1598329969233" expanded="true" signature="547:653" ph="{...}" />
+                    <marker date="1598329969233" expanded="true" signature="755:824" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_2.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+                  <folding>
+                    <marker date="1598348303808" expanded="true" signature="84:739" ph="{...}" />
+                    <marker date="1598348303808" expanded="true" signature="115:737" ph="{...}" />
+                    <marker date="1598348303808" expanded="true" signature="181:731" ph="{...}" />
+                    <marker date="1598348303808" expanded="true" signature="242:299" ph="{...}" />
+                    <marker date="1598348303808" expanded="true" signature="444:694" ph="{...}" />
+                    <marker date="1598348303808" expanded="true" signature="616:681" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -35,7 +52,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/LinkedListNode.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
+                <state relative-caret-position="136">
                   <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
                   <folding>
                     <marker date="1598328363604" expanded="true" signature="53:301" ph="{...}" />
@@ -49,18 +66,34 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_1.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="395">
-                  <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+                <state relative-caret-position="85">
+                  <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
                   <folding>
-                    <marker date="1598328559092" expanded="true" signature="6:73" ph="..." />
+                    <marker date="1598328559092" expanded="false" signature="6:73" ph="..." />
                     <marker date="1598328559092" expanded="true" signature="102:1262" ph="{...}" />
                     <marker date="1598328559092" expanded="true" signature="155:1260" ph="{...}" />
                     <marker date="1598328559092" expanded="true" signature="204:779" ph="{...}" />
                     <marker date="1598328559092" expanded="true" signature="833:1254" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_2.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="143">
+                  <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+                  <folding>
+                    <marker date="1598348239892" expanded="true" signature="6:73" ph="..." />
+                    <marker date="1598348239892" expanded="true" signature="102:1119" ph="{...}" />
+                    <marker date="1598348239892" expanded="true" signature="155:1117" ph="{...}" />
+                    <marker date="1598348239892" expanded="true" signature="208:826" ph="{...}" />
+                    <marker date="1598348239892" expanded="true" signature="889:1111" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -89,6 +122,8 @@
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_16.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Strings/TestProblem_7_4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_17.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_16.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/PrimitiveTypes/Problem_5_8.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_2.cs" root0="FORCE_HIGHLIGHTING" />
@@ -137,8 +172,10 @@
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_4.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/LinkedList.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/LinkedListNode.cs" />
-        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_1.cs" />
         <option value="$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_1.cs" />
+        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_1.cs" />
+        <option value="$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_2.cs" />
+        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_2.cs" />
       </list>
     </option>
   </component>
@@ -156,6 +193,7 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -190,7 +228,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,12 +289,13 @@
       <workItem from="1598009710879" duration="1504000" />
       <workItem from="1598092283396" duration="752000" />
       <workItem from="1598097303324" duration="2465000" />
-      <workItem from="1598327861599" duration="695000" />
+      <workItem from="1598327861599" duration="2785000" />
+      <workItem from="1598346803266" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21919000" />
+    <option name="totallyTimeSpent" value="24938000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,7 +727,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/LinkedListNode.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="136">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <marker date="1598328363604" expanded="true" signature="53:301" ph="{...}" />
@@ -701,30 +739,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="69">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
-            <marker date="1598328483595" expanded="true" signature="68:897" ph="{...}" />
-            <marker date="1598328483595" expanded="true" signature="99:895" ph="{...}" />
-            <marker date="1598328483595" expanded="true" signature="182:889" ph="{...}" />
-            <marker date="1598328483595" expanded="true" signature="336:853" ph="{...}" />
-            <marker date="1598328483595" expanded="true" signature="435:541" ph="{...}" />
-            <marker date="1598328483595" expanded="true" signature="562:668" ph="{...}" />
-            <marker date="1598328483595" expanded="true" signature="770:839" ph="{...}" />
+            <marker date="1598329969233" expanded="true" signature="84:880" ph="{...}" />
+            <marker date="1598329969233" expanded="true" signature="167:874" ph="{...}" />
+            <marker date="1598329969233" expanded="true" signature="321:838" ph="{...}" />
+            <marker date="1598329969233" expanded="true" signature="420:526" ph="{...}" />
+            <marker date="1598329969233" expanded="true" signature="547:653" ph="{...}" />
+            <marker date="1598329969233" expanded="true" signature="755:824" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        <state relative-caret-position="85">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
-            <marker date="1598328559092" expanded="true" signature="6:73" ph="..." />
+            <marker date="1598328559092" expanded="false" signature="6:73" ph="..." />
             <marker date="1598328559092" expanded="true" signature="102:1262" ph="{...}" />
             <marker date="1598328559092" expanded="true" signature="155:1260" ph="{...}" />
             <marker date="1598328559092" expanded="true" signature="204:779" ph="{...}" />
             <marker date="1598328559092" expanded="true" signature="833:1254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding>
+            <marker date="1598348303808" expanded="true" signature="84:739" ph="{...}" />
+            <marker date="1598348303808" expanded="true" signature="115:737" ph="{...}" />
+            <marker date="1598348303808" expanded="true" signature="181:731" ph="{...}" />
+            <marker date="1598348303808" expanded="true" signature="242:299" ph="{...}" />
+            <marker date="1598348303808" expanded="true" signature="444:694" ph="{...}" />
+            <marker date="1598348303808" expanded="true" signature="616:681" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1598348239892" expanded="true" signature="6:73" ph="..." />
+            <marker date="1598348239892" expanded="true" signature="102:1119" ph="{...}" />
+            <marker date="1598348239892" expanded="true" signature="155:1117" ph="{...}" />
+            <marker date="1598348239892" expanded="true" signature="208:826" ph="{...}" />
+            <marker date="1598348239892" expanded="true" signature="889:1111" ph="{...}" />
           </folding>
         </state>
       </provider>
