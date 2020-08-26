@@ -31,6 +31,9 @@
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="StacksAndQueues" t="Include">
+          <e p="Problem_9_1.cs" t="Include" />
+        </e>
         <e p="Strings" t="Include">
           <e p="Problem_7_1.cs" t="Include" />
           <e p="Problem_7_2.cs" t="Include" />
@@ -62,6 +65,9 @@
         </e>
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StacksAndQueues" t="Include">
+          <e p="TestProblem_9_1.cs" t="Include" />
         </e>
         <e p="Strings" t="Include">
           <e p="TestProblem_7_1.cs" t="Include" />
