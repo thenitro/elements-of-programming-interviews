@@ -1,4 +1,5 @@
 using ElementsOfProgrammingInterviews.StacksAndQueues;
+using ElementsOfProgrammingInterviews.Structures;
 using NUnit.Framework;
 
 namespace Tests.StacksAndQueues

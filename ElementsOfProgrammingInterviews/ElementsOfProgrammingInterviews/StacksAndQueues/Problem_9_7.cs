@@ -1,5 +1,5 @@
-using System;
 using System.Collections.Generic;
+using ElementsOfProgrammingInterviews.Structures;
 
 namespace ElementsOfProgrammingInterviews.StacksAndQueues
 {

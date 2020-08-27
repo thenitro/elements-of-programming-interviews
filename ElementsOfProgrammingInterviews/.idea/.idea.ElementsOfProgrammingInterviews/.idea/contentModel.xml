@@ -14,6 +14,10 @@
           <e p="Problem_6_6.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
+        <e p="BinaryTrees" t="Include">
+          <e p="Problem_10_1.cs" t="Include" />
+          <e p="Problem_10_4.cs" t="Include" />
+        </e>
         <e p="ElementsOfProgrammingInterviews.csproj" t="IncludeRecursive" />
         <e p="LinkedLists" t="Include">
           <e p="LinkedListNode.cs" t="Include" />
@@ -32,7 +36,6 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
-          <e p="BinaryTreeNode.cs" t="Include" />
           <e p="Problem_9_1.cs" t="Include" />
           <e p="Problem_9_7.cs" t="Include" />
         </e>
@@ -40,6 +43,9 @@
           <e p="Problem_7_1.cs" t="Include" />
           <e p="Problem_7_2.cs" t="Include" />
           <e p="Problem_7_4.cs" t="Include" />
+        </e>
+        <e p="Structures" t="Include">
+          <e p="BinaryTreeNode.cs" t="Include" />
         </e>
       </e>
       <e p="ElementsOfProgrammingInterviews.sln" t="IncludeFlat" />
@@ -54,6 +60,10 @@
           <e p="TestProblem_6_6.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
+        <e p="BinaryTrees" t="Include">
+          <e p="TestProblem_10_1.cs" t="Include" />
+          <e p="TestProblem_10_4.cs" t="Include" />
+        </e>
         <e p="LinkedLists" t="Include">
           <e p="TestProblem_8_1.cs" t="Include" />
           <e p="TestProblem_8_2.cs" t="Include" />
