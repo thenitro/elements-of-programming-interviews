@@ -19,6 +19,9 @@
           <e p="Problem_10_4.cs" t="Include" />
         </e>
         <e p="ElementsOfProgrammingInterviews.csproj" t="IncludeRecursive" />
+        <e p="Heaps" t="Include">
+          <e p="Problem_11_1.cs" t="Include" />
+        </e>
         <e p="LinkedLists" t="Include">
           <e p="LinkedListNode.cs" t="Include" />
           <e p="Problem_8_1.cs" t="Include" />
@@ -46,6 +49,8 @@
         </e>
         <e p="Structures" t="Include">
           <e p="BinaryTreeNode.cs" t="Include" />
+          <e p="HeapNode.cs" t="Include" />
+          <e p="MinHeap.cs" t="Include" />
         </e>
       </e>
       <e p="ElementsOfProgrammingInterviews.sln" t="IncludeFlat" />
@@ -63,6 +68,9 @@
         <e p="BinaryTrees" t="Include">
           <e p="TestProblem_10_1.cs" t="Include" />
           <e p="TestProblem_10_4.cs" t="Include" />
+        </e>
+        <e p="Heaps" t="Include">
+          <e p="TestProblem_11_1.cs" t="Include" />
         </e>
         <e p="LinkedLists" t="Include">
           <e p="TestProblem_8_1.cs" t="Include" />
