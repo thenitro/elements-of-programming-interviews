@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace ElementsOfProgrammingInterviews.Structures
 {
@@ -15,12 +16,12 @@ namespace ElementsOfProgrammingInterviews.Structures
 
         public int Count => _count;
 
-        public T Peek()
+        public HeapNode<T> Peek()
         {
-            return _array[0].Data;
+            return _array[0];
         }
 
-        public void Push(int priority, T data)
+        public void Push(double priority, T data)
         {
             if (_count == _array.Length)
             {
@@ -77,6 +78,21 @@ namespace ElementsOfProgrammingInterviews.Structures
         {
             Decrease(value, int.MinValue);
             Pop();
+        }
+
+        public List<T> ToList()
+        {
+            var result = new List<T>();
+            
+            foreach (var heapNode in _array)
+            {
+                if (heapNode != null)
+                {
+                    result.Add(heapNode.Data);
+                }
+            }
+
+            return result;
         }
 
         private int Parent(int i)
