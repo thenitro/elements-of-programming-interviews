@@ -3,8 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="d05b1bb5-3e10-43ba-95cd-bb5dfc1754bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/HeapNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/HeapNode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/MinHeap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/MinHeap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/bin/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/bin/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/Tests.dll" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,23 +117,38 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Tests/Searching/TestProblem_12_1.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="153">
+                  <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+                  <folding>
+                    <marker date="1598520151638" expanded="true" signature="6:71" ph="..." />
+                    <marker date="1598520151638" expanded="true" signature="98:370" ph="{...}" />
+                    <marker date="1598520151638" expanded="true" signature="152:368" ph="{...}" />
+                    <marker date="1598520151638" expanded="true" signature="201:362" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Heaps/Problem_11_4.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+                <state relative-caret-position="136">
+                  <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
                   <folding>
-                    <marker date="1598517885663" expanded="true" signature="6:47" ph="..." />
-                    <marker date="1598517885663" expanded="true" signature="146:1380" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="178:998" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="291:374" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="433:992" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="531:606" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="623:946" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="701:932" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="761:842" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="1023:1378" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="1172:1252" ph="{...}" />
-                    <marker date="1598517885663" expanded="true" signature="1293:1372" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="6:47" ph="..." />
+                    <marker date="1598517896509" expanded="true" signature="146:1381" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="178:999" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="291:374" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="433:993" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="531:606" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="623:947" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="701:933" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="762:843" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="1024:1379" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="1173:1253" ph="{...}" />
+                    <marker date="1598517896509" expanded="true" signature="1294:1373" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -220,16 +241,34 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Tests/Heaps/TestProblem_11_4.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="148">
-                  <caret line="28" selection-start-line="28" selection-end-line="28" />
+                <state relative-caret-position="-294">
+                  <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
                   <folding>
-                    <marker date="1598517837435" expanded="true" signature="6:67" ph="..." />
-                    <marker date="1598517837435" expanded="true" signature="90:2475" ph="{...}" />
-                    <marker date="1598517837435" expanded="true" signature="144:2473" ph="{...}" />
-                    <marker date="1598517837435" expanded="true" signature="193:2467" ph="{...}" />
+                    <marker date="1598517908040" expanded="true" signature="6:67" ph="..." />
+                    <marker date="1598517908040" expanded="true" signature="90:2475" ph="{...}" />
+                    <marker date="1598517908040" expanded="true" signature="144:2473" ph="{...}" />
+                    <marker date="1598517908040" expanded="true" signature="193:2467" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Searching/Problem_12_1.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+                  <folding>
+                    <marker date="1598520282893" expanded="true" signature="66:741" ph="{...}" />
+                    <marker date="1598520282893" expanded="true" signature="98:739" ph="{...}" />
+                    <marker date="1598520282893" expanded="true" signature="152:733" ph="{...}" />
+                    <marker date="1598520282893" expanded="true" signature="280:695" ph="{...}" />
+                    <marker date="1598520282893" expanded="true" signature="386:453" ph="{...}" />
+                    <marker date="1598520282893" expanded="true" signature="494:593" ph="{...}" />
+                    <marker date="1598520282893" expanded="true" signature="614:681" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -245,20 +284,16 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/MinHeap.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_6.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/HeapNode.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/BinaryTrees/Problem_10_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Heaps/TestProblem_11_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/LinkedListNode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Strings/TestProblem_7_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/BinaryTrees/Problem_10_4.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_6.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/PrimitiveTypes/TestProblem_5_8.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/PrimitiveTypes/Problem_5_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_3.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/PrimitiveTypes/TestProblem_5_7.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_11.cs" root0="FORCE_HIGHLIGHTING" />
@@ -270,7 +305,6 @@
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/StacksAndQueues/TestProblem_9_1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_16.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/StacksAndQueues/Problem_9_7.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/BinaryTreeNode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/PrimitiveTypes/Problem_5_8.cs" root0="FORCE_HIGHLIGHTING" />
@@ -281,21 +315,26 @@
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tests/BinaryTrees/TestProblem_10_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Strings/TestProblem_7_1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_6.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/BinaryTrees/Problem_10_1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_6.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/PrimitiveTypes/Problem_5_1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_16.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/Searching/TestProblem_12_1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/BinaryTrees/TestProblem_10_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/PrimitiveTypes/Problem_5_7.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Searching/Problem_12_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/PrimitiveTypes/TestProblem_5_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Heaps/Problem_11_4.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Heaps/TestProblem_11_4.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_17.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/PrimitiveTypes/Problem_5_7.cs" />
-        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/PrimitiveTypes/Problem_5_8.cs" />
         <option value="$PROJECT_DIR$/Tests/PrimitiveTypes/TestProblem_5_8.cs" />
         <option value="$PROJECT_DIR$/Tests/PrimitiveTypes/TestProblem_6_1.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/PrimitiveTypes/Problem_6_1.cs" />
@@ -343,8 +382,10 @@
         <option value="$PROJECT_DIR$/Tests/Heaps/TestProblem_11_1.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/HeapNode.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Structures/MinHeap.cs" />
-        <option value="$PROJECT_DIR$/Tests/Heaps/TestProblem_11_4.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Heaps/Problem_11_4.cs" />
+        <option value="$PROJECT_DIR$/Tests/Heaps/TestProblem_11_4.cs" />
+        <option value="$PROJECT_DIR$/Tests/Searching/TestProblem_12_1.cs" />
+        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Searching/Problem_12_1.cs" />
       </list>
     </option>
   </component>
@@ -378,13 +419,7 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="ElementsOfProgrammingInterviews" type="24d0babc:SolutionExplorerModelNode" />
               <item name="ElementsOfProgrammingInterviews" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Heaps" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ElementsOfProgrammingInterviews" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ElementsOfProgrammingInterviews" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Structures" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Searching" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -395,7 +430,7 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="ElementsOfProgrammingInterviews" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Tests" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Heaps" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Searching" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -470,12 +505,12 @@
       <workItem from="1598356531067" duration="848000" />
       <workItem from="1598429591936" duration="3712000" />
       <workItem from="1598503419682" duration="1345000" />
-      <workItem from="1598508295196" duration="5083000" />
+      <workItem from="1598508295196" duration="6782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36541000" />
+    <option name="totallyTimeSpent" value="38240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,7 +533,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1222,36 +1257,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Heaps/TestProblem_11_4.cs">
+    <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Heaps/Problem_11_4.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="136">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding>
-            <marker date="1598517837435" expanded="true" signature="6:67" ph="..." />
-            <marker date="1598517837435" expanded="true" signature="90:2475" ph="{...}" />
-            <marker date="1598517837435" expanded="true" signature="144:2473" ph="{...}" />
-            <marker date="1598517837435" expanded="true" signature="193:2467" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="6:47" ph="..." />
+            <marker date="1598517896509" expanded="true" signature="146:1381" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="178:999" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="291:374" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="433:993" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="531:606" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="623:947" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="701:933" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="762:843" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="1024:1379" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="1173:1253" ph="{...}" />
+            <marker date="1598517896509" expanded="true" signature="1294:1373" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Heaps/Problem_11_4.cs">
+    <entry file="file://$PROJECT_DIR$/Tests/Heaps/TestProblem_11_4.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="-294">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
           <folding>
-            <marker date="1598517885663" expanded="true" signature="6:47" ph="..." />
-            <marker date="1598517885663" expanded="true" signature="146:1380" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="178:998" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="291:374" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="433:992" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="531:606" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="623:946" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="701:932" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="761:842" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="1023:1378" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="1172:1252" ph="{...}" />
-            <marker date="1598517885663" expanded="true" signature="1293:1372" ph="{...}" />
+            <marker date="1598517908040" expanded="true" signature="6:67" ph="..." />
+            <marker date="1598517908040" expanded="true" signature="90:2475" ph="{...}" />
+            <marker date="1598517908040" expanded="true" signature="144:2473" ph="{...}" />
+            <marker date="1598517908040" expanded="true" signature="193:2467" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Searching/TestProblem_12_1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <marker date="1598520151638" expanded="true" signature="6:71" ph="..." />
+            <marker date="1598520151638" expanded="true" signature="98:370" ph="{...}" />
+            <marker date="1598520151638" expanded="true" signature="152:368" ph="{...}" />
+            <marker date="1598520151638" expanded="true" signature="201:362" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Searching/Problem_12_1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <marker date="1598520282893" expanded="true" signature="66:741" ph="{...}" />
+            <marker date="1598520282893" expanded="true" signature="98:739" ph="{...}" />
+            <marker date="1598520282893" expanded="true" signature="152:733" ph="{...}" />
+            <marker date="1598520282893" expanded="true" signature="280:695" ph="{...}" />
+            <marker date="1598520282893" expanded="true" signature="386:453" ph="{...}" />
+            <marker date="1598520282893" expanded="true" signature="494:593" ph="{...}" />
+            <marker date="1598520282893" expanded="true" signature="614:681" ph="{...}" />
           </folding>
         </state>
       </provider>
