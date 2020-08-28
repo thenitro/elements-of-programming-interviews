@@ -42,6 +42,7 @@
         <e p="Searching" t="Include">
           <e p="Problem_12_1.cs" t="Include" />
           <e p="Problem_12_4.cs" t="Include" />
+          <e p="Problem_12_8.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="Problem_9_1.cs" t="Include" />
@@ -95,6 +96,7 @@
         <e p="Searching" t="Include">
           <e p="TestProblem_12_1.cs" t="Include" />
           <e p="TestProblem_12_4.cs" t="Include" />
+          <e p="TestProblem_12_8.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="TestProblem_9_1.cs" t="Include" />
