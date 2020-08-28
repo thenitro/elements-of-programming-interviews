@@ -1,4 +1,5 @@
 using ElementsOfProgrammingInterviews.LinkedLists;
+using ElementsOfProgrammingInterviews.Structures;
 using NUnit.Framework;
 
 namespace Tests.LinkedLists

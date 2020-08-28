@@ -1,3 +1,5 @@
+using ElementsOfProgrammingInterviews.Structures;
+
 namespace ElementsOfProgrammingInterviews.LinkedLists
 {
     public class Problem_8_1

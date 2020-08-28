@@ -1,4 +1,5 @@
 using System.Security.Policy;
+using ElementsOfProgrammingInterviews.Structures;
 
 namespace ElementsOfProgrammingInterviews.LinkedLists
 {
