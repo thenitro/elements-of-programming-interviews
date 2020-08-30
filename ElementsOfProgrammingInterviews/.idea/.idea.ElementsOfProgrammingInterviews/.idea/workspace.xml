@@ -10,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/BinarySearchTrees/Problem_15_1.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/BinarySearchTrees/TestProblem_15_1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+            <state relative-caret-position="384">
+              <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
               <folding>
                 <marker date="1598703945784" expanded="true" signature="6:129" ph="..." />
                 <marker date="1598703945784" expanded="true" signature="164:1682" ph="{...}" />
@@ -310,12 +310,12 @@
       <workItem from="1598356531067" duration="848000" />
       <workItem from="1598429591936" duration="3712000" />
       <workItem from="1598503419682" duration="1345000" />
-      <workItem from="1598508295196" duration="21382000" />
+      <workItem from="1598508295196" duration="21988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52840000" />
+    <option name="totallyTimeSpent" value="53446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1145,10 +1145,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/BinarySearchTrees/Problem_15_1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" column="78" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
+          <folding>
+            <marker date="1598703951953" expanded="true" signature="6:63" ph="..." />
+            <marker date="1598703951953" expanded="true" signature="124:684" ph="{...}" />
+            <marker date="1598703951953" expanded="true" signature="156:682" ph="{...}" />
+            <marker date="1598703951953" expanded="true" signature="212:676" ph="{...}" />
+            <marker date="1598703951953" expanded="true" signature="252:309" ph="{...}" />
+            <marker date="1598703951953" expanded="true" signature="389:494" ph="{...}" />
+            <marker date="1598703951953" expanded="true" signature="531:638" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/BinarySearchTrees/TestProblem_15_1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="53" column="18" lean-forward="true" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        <state relative-caret-position="384">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
           <folding>
             <marker date="1598703945784" expanded="true" signature="6:129" ph="..." />
             <marker date="1598703945784" expanded="true" signature="164:1682" ph="{...}" />
@@ -1165,22 +1181,6 @@
             <marker date="1598703945784" expanded="true" signature="1198:1274" ph="{...}" />
             <marker date="1598703945784" expanded="true" signature="1407:1574" ph="{...}" />
             <marker date="1598703945784" expanded="true" signature="1479:1556" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/BinarySearchTrees/Problem_15_1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="23" column="78" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
-          <folding>
-            <marker date="1598703951953" expanded="true" signature="6:63" ph="..." />
-            <marker date="1598703951953" expanded="true" signature="124:684" ph="{...}" />
-            <marker date="1598703951953" expanded="true" signature="156:682" ph="{...}" />
-            <marker date="1598703951953" expanded="true" signature="212:676" ph="{...}" />
-            <marker date="1598703951953" expanded="true" signature="252:309" ph="{...}" />
-            <marker date="1598703951953" expanded="true" signature="389:494" ph="{...}" />
-            <marker date="1598703951953" expanded="true" signature="531:638" ph="{...}" />
           </folding>
         </state>
       </provider>
