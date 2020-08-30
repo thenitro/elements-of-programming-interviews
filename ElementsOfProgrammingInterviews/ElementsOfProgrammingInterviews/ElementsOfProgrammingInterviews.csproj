@@ -1,87 +1,87 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
-    <PropertyGroup>
-        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{C84D498D-1444-49D7-9017-1E76668FBAAB}</ProjectGuid>
-        <OutputType>Exe</OutputType>
-        <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>ElementsOfProgrammingInterviews</RootNamespace>
-        <AssemblyName>ElementsOfProgrammingInterviews</AssemblyName>
-        <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
-        <FileAlignment>512</FileAlignment>
-    </PropertyGroup>
-    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-        <PlatformTarget>AnyCPU</PlatformTarget>
-        <DebugSymbols>true</DebugSymbols>
-        <DebugType>full</DebugType>
-        <Optimize>false</Optimize>
-        <OutputPath>bin\Debug\</OutputPath>
-        <DefineConstants>DEBUG;TRACE</DefineConstants>
-        <ErrorReport>prompt</ErrorReport>
-        <WarningLevel>4</WarningLevel>
-    </PropertyGroup>
-    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-        <PlatformTarget>AnyCPU</PlatformTarget>
-        <DebugType>pdbonly</DebugType>
-        <Optimize>true</Optimize>
-        <OutputPath>bin\Release\</OutputPath>
-        <DefineConstants>TRACE</DefineConstants>
-        <ErrorReport>prompt</ErrorReport>
-        <WarningLevel>4</WarningLevel>
-    </PropertyGroup>
-    <ItemGroup>
-        <Reference Include="System" />
-        <Reference Include="System.Core" />
-        <Reference Include="System.Data" />
-        <Reference Include="System.Xml" />
-    </ItemGroup>
-    <ItemGroup>
-        <Compile Include="Arrays\Problem_6_1.cs" />
-        <Compile Include="Arrays\Problem_6_11.cs" />
-        <Compile Include="Arrays\Problem_6_16.cs" />
-        <Compile Include="Arrays\Problem_6_17.cs" />
-        <Compile Include="Arrays\Problem_6_2.cs" />
-        <Compile Include="Arrays\Problem_6_6.cs" />
-        <Compile Include="BinarySearchTrees\Problem_15_1.cs" />
-        <Compile Include="BinaryTrees\Problem_10_1.cs" />
-        <Compile Include="BinaryTrees\Problem_10_4.cs" />
-        <Compile Include="HashTables\Problem_13_2.cs" />
-        <Compile Include="HashTables\Problem_13_3.cs" />
-        <Compile Include="HashTables\Problem_13_6.cs" />
-        <Compile Include="Heaps\Problem_11_1.cs" />
-        <Compile Include="Heaps\Problem_11_4.cs" />
-        <Compile Include="LinkedLists\Problem_8_1.cs" />
-        <Compile Include="LinkedLists\Problem_8_2.cs" />
-        <Compile Include="LinkedLists\Problem_8_3.cs" />
-        <Compile Include="PrimitiveTypes\Problem_5_1.cs" />
-        <Compile Include="PrimitiveTypes\Problem_5_7.cs" />
-        <Compile Include="PrimitiveTypes\Problem_5_8.cs" />
-        <Compile Include="Program.cs" />
-        <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Searching\Problem_12_1.cs" />
-        <Compile Include="Searching\Problem_12_4.cs" />
-        <Compile Include="Searching\Problem_12_8.cs" />
-        <Compile Include="Sorting\Problem_14_1.cs" />
-        <Compile Include="Sorting\Problem_14_2.cs" />
-        <Compile Include="StacksAndQueues\Problem_9_1.cs" />
-        <Compile Include="StacksAndQueues\Problem_9_7.cs" />
-        <Compile Include="Strings\Problem_7_1.cs" />
-        <Compile Include="Strings\Problem_7_2.cs" />
-        <Compile Include="Strings\Problem_7_4.cs" />
-        <Compile Include="Structures\BinaryTreeNode.cs" />
-        <Compile Include="Structures\HeapNode.cs" />
-        <Compile Include="Structures\LinkedListNode.cs" />
-        <Compile Include="Structures\MinHeap.cs" />
-    </ItemGroup>
-    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-    <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C84D498D-1444-49D7-9017-1E76668FBAAB}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ElementsOfProgrammingInterviews</RootNamespace>
+    <AssemblyName>ElementsOfProgrammingInterviews</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arrays\Problem_6_1.cs" />
+    <Compile Include="Arrays\Problem_6_11.cs" />
+    <Compile Include="Arrays\Problem_6_16.cs" />
+    <Compile Include="Arrays\Problem_6_17.cs" />
+    <Compile Include="Arrays\Problem_6_2.cs" />
+    <Compile Include="Arrays\Problem_6_6.cs" />
+    <Compile Include="BinarySearchTrees\Problem_15_1.cs" />
+    <Compile Include="BinaryTrees\Problem_10_1.cs" />
+    <Compile Include="BinaryTrees\Problem_10_4.cs" />
+    <Compile Include="HashTables\Problem_13_2.cs" />
+    <Compile Include="HashTables\Problem_13_3.cs" />
+    <Compile Include="HashTables\Problem_13_6.cs" />
+    <Compile Include="Heaps\Problem_11_1.cs" />
+    <Compile Include="Heaps\Problem_11_4.cs" />
+    <Compile Include="LinkedLists\Problem_8_1.cs" />
+    <Compile Include="LinkedLists\Problem_8_2.cs" />
+    <Compile Include="LinkedLists\Problem_8_3.cs" />
+    <Compile Include="PrimitiveTypes\Problem_5_1.cs" />
+    <Compile Include="PrimitiveTypes\Problem_5_7.cs" />
+    <Compile Include="PrimitiveTypes\Problem_5_8.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recursion\Problem_16_1.cs" />
+    <Compile Include="Searching\Problem_12_1.cs" />
+    <Compile Include="Searching\Problem_12_4.cs" />
+    <Compile Include="Searching\Problem_12_8.cs" />
+    <Compile Include="Sorting\Problem_14_1.cs" />
+    <Compile Include="Sorting\Problem_14_2.cs" />
+    <Compile Include="StacksAndQueues\Problem_9_1.cs" />
+    <Compile Include="StacksAndQueues\Problem_9_7.cs" />
+    <Compile Include="Strings\Problem_7_1.cs" />
+    <Compile Include="Strings\Problem_7_2.cs" />
+    <Compile Include="Strings\Problem_7_4.cs" />
+    <Compile Include="Structures\BinaryTreeNode.cs" />
+    <Compile Include="Structures\HeapNode.cs" />
+    <Compile Include="Structures\LinkedListNode.cs" />
+    <Compile Include="Structures\MinHeap.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.
     <Target Name="BeforeBuild">
     </Target>
     <Target Name="AfterBuild">
     </Target>
     -->
-
 </Project>
