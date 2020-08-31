@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d05b1bb5-3e10-43ba-95cd-bb5dfc1754bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/ElementsOfProgrammingInterviews.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/ElementsOfProgrammingInterviews.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/Tests.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +15,7 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/GreedyAlgorithmsAndInvariants/Problem_18_4.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="357">
@@ -40,15 +37,55 @@
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Graphs/Problem_19_1.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="748">
+                  <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+                  <folding>
+                    <marker date="1598863759640" expanded="true" signature="6:47" ph="..." />
+                    <marker date="1598863759640" expanded="true" signature="97:2179" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="129:2177" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="241:544" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="451:508" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="681:2171" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="859:917" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="981:1039" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="1186:1244" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="1345:1402" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="1483:1814" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="1864:2134" ph="{...}" />
+                    <marker date="1598863759640" expanded="true" signature="1995:2064" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Tests/Graphs/TestProblem_19_1.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="292">
+                  <caret line="20" column="27" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="46" />
+                  <folding>
+                    <marker date="1598863671192" expanded="true" signature="6:82" ph="..." />
+                    <marker date="1598863671192" expanded="true" signature="106:960" ph="{...}" />
+                    <marker date="1598863671192" expanded="true" signature="160:958" ph="{...}" />
+                    <marker date="1598863671192" expanded="true" signature="209:952" ph="{...}" />
+                    <marker date="1598863671192" expanded="true" signature="266:781" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Tests/GreedyAlgorithmsAndInvariants/TestProblem_18_4.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+                <state relative-caret-position="255">
+                  <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
                   <folding>
                     <marker date="1598859259855" expanded="true" signature="6:91" ph="..." />
                     <marker date="1598859259855" expanded="true" signature="138:439" ph="{...}" />
@@ -142,14 +179,14 @@
     <setting file="file://$PROJECT_DIR$/Tests/Sorting/TestProblem_14_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_17.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Arrays/TestProblem_6_16.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Graphs/Problem_19_1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/Graphs/TestProblem_19_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Heaps/TestProblem_11_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/Recursion/TestProblem_16_1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_4.cs" />
-        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/LinkedList.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/LinkedListNode.cs" />
         <option value="$PROJECT_DIR$/Tests/StacksAndQueues/TestProblem_9_1.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/StacksAndQueues/Problem_9_1.cs" />
@@ -199,6 +236,8 @@
         <option value="$PROJECT_DIR$/Tests/DynamicProgramming/TestProblem_17_1.cs" />
         <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/GreedyAlgorithmsAndInvariants/Problem_18_4.cs" />
         <option value="$PROJECT_DIR$/Tests/GreedyAlgorithmsAndInvariants/TestProblem_18_4.cs" />
+        <option value="$PROJECT_DIR$/Tests/Graphs/TestProblem_19_1.cs" />
+        <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Graphs/Problem_19_1.cs" />
       </list>
     </option>
   </component>
@@ -232,7 +271,7 @@
               <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
               <item name="ElementsOfProgrammingInterviews" type="34e6ba20:FileSystemExplorerNode" />
               <item name="ElementsOfProgrammingInterviews" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="GreedyAlgorithmsAndInvariants" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Graphs" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
               <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
@@ -319,12 +358,12 @@
       <workItem from="1598779091159" duration="218000" />
       <workItem from="1598779386338" duration="1250000" />
       <workItem from="1598795079494" duration="1082000" />
-      <workItem from="1598858603083" duration="609000" />
+      <workItem from="1598858603083" duration="2773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56392000" />
+    <option name="totallyTimeSpent" value="58556000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,7 +376,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -356,7 +394,7 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.32827735" />
@@ -385,35 +423,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_4.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-          <folding>
-            <marker date="1598102487227" expanded="true" signature="95:1209" ph="{...}" />
-            <marker date="1598102487227" expanded="true" signature="153:1203" ph="{...}" />
-            <marker date="1598102487227" expanded="true" signature="277:536" ph="{...}" />
-            <marker date="1598102487227" expanded="true" signature="328:416" ph="{...}" />
-            <marker date="1598102487227" expanded="true" signature="454:522" ph="{...}" />
-            <marker date="1598102487227" expanded="true" signature="719:1094" ph="{...}" />
-            <marker date="1598102487227" expanded="true" signature="781:911" ph="{...}" />
-            <marker date="1598102487227" expanded="true" signature="932:1031" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Strings/TestProblem_7_4.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-            <marker date="1598097812904" expanded="true" signature="147:660" ph="{...}" />
-            <marker date="1598097812904" expanded="true" signature="196:654" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/Strings/TestProblem_7_2.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1126,19 +1135,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/GreedyAlgorithmsAndInvariants/TestProblem_18_4.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <marker date="1598859259855" expanded="true" signature="6:91" ph="..." />
-            <marker date="1598859259855" expanded="true" signature="138:439" ph="{...}" />
-            <marker date="1598859259855" expanded="true" signature="192:437" ph="{...}" />
-            <marker date="1598859259855" expanded="true" signature="242:431" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/GreedyAlgorithmsAndInvariants/Problem_18_4.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1155,6 +1151,55 @@
             <marker date="1598859034887" expanded="true" signature="761:1013" ph="{...}" />
             <marker date="1598859034887" expanded="true" signature="808:976" ph="{...}" />
             <marker date="1598859034887" expanded="true" signature="893:962" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/GreedyAlgorithmsAndInvariants/TestProblem_18_4.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1598859259855" expanded="true" signature="6:91" ph="..." />
+            <marker date="1598859259855" expanded="true" signature="138:439" ph="{...}" />
+            <marker date="1598859259855" expanded="true" signature="192:437" ph="{...}" />
+            <marker date="1598859259855" expanded="true" signature="242:431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ElementsOfProgrammingInterviews/Graphs/Problem_19_1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <marker date="1598863759640" expanded="true" signature="6:47" ph="..." />
+            <marker date="1598863759640" expanded="true" signature="97:2179" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="129:2177" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="241:544" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="451:508" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="681:2171" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="859:917" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="981:1039" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="1186:1244" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="1345:1402" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="1483:1814" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="1864:2134" ph="{...}" />
+            <marker date="1598863759640" expanded="true" signature="1995:2064" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Graphs/TestProblem_19_1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="20" column="27" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <marker date="1598863671192" expanded="true" signature="6:82" ph="..." />
+            <marker date="1598863671192" expanded="true" signature="106:960" ph="{...}" />
+            <marker date="1598863671192" expanded="true" signature="160:958" ph="{...}" />
+            <marker date="1598863671192" expanded="true" signature="209:952" ph="{...}" />
+            <marker date="1598863671192" expanded="true" signature="266:781" ph="{...}" />
           </folding>
         </state>
       </provider>

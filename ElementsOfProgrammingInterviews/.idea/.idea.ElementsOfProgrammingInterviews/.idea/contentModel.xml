@@ -25,6 +25,9 @@
           <e p="Problem_17_1.cs" t="Include" />
         </e>
         <e p="ElementsOfProgrammingInterviews.csproj" t="IncludeRecursive" />
+        <e p="Graphs" t="Include">
+          <e p="Problem_19_1.cs" t="Include" />
+        </e>
         <e p="GreedyAlgorithmsAndInvariants" t="Include">
           <e p="Problem_18_4.cs" t="Include" />
         </e>
@@ -101,6 +104,9 @@
         </e>
         <e p="DynamicProgramming" t="Include">
           <e p="TestProblem_17_1.cs" t="Include" />
+        </e>
+        <e p="Graphs" t="Include">
+          <e p="TestProblem_19_1.cs" t="Include" />
         </e>
         <e p="GreedyAlgorithmsAndInvariants" t="Include">
           <e p="TestProblem_18_4.cs" t="Include" />
