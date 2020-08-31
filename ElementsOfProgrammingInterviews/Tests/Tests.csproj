@@ -52,6 +52,7 @@
     <Compile Include="BinaryTrees\TestProblem_10_1.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_4.cs" />
     <Compile Include="DynamicProgramming\TestProblem_17_1.cs" />
+    <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_4.cs" />
     <Compile Include="HashTables\TestProblem_13_2.cs" />
     <Compile Include="HashTables\TestProblem_13_3.cs" />
     <Compile Include="HashTables\TestProblem_13_6.cs" />
