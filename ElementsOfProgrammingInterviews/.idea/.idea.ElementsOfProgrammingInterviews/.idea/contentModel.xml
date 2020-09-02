@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\thenitro\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\thenitro\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ElementsOfProgrammingInterviews.-1205783870.00" t="ExcludeRecursive" />
+    <e p="C:\Users\timur\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\timur\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ElementsOfProgrammingInterviews.-1205783870.00" t="ExcludeRecursive" />
     <e p="D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews" t="IncludeFlat">
       <e p="ElementsOfProgrammingInterviews" t="IncludeRecursive">
         <e p="Arrays" t="Include">
@@ -48,6 +48,7 @@
         <e p="obj" t="ExcludeRecursive" />
         <e p="PrimitiveTypes" t="Include">
           <e p="Problem_5_1.cs" t="Include" />
+          <e p="Problem_5_2.cs" t="Include" />
           <e p="Problem_5_7.cs" t="Include" />
           <e p="Problem_5_8.cs" t="Include" />
         </e>
@@ -128,6 +129,7 @@
         <e p="obj" t="ExcludeRecursive" />
         <e p="PrimitiveTypes" t="Include">
           <e p="TestProblem_5_1.cs" t="Include" />
+          <e p="TestProblem_5_2.cs" t="Include" />
           <e p="TestProblem_5_7.cs" t="Include" />
           <e p="TestProblem_5_8.cs" t="Include" />
         </e>
