@@ -30,12 +30,15 @@ namespace ElementsOfProgrammingInterviews.Arrays
                 {
                     Swap(middle, start, array);
                     start++;
+                    middle++;
                 }
             }
         }
 
         private void Swap(int a, int b, int[] array)
         {
+            Console.WriteLine(a + " " + b);
+            
             var tmp = array[a];
             array[a] = array[b];
             array[b] = tmp;
