@@ -47,6 +47,7 @@
     <Compile Include="Arrays\TestProblem_6_16.cs" />
     <Compile Include="Arrays\TestProblem_6_17.cs" />
     <Compile Include="Arrays\TestProblem_6_2.cs" />
+    <Compile Include="Arrays\TestProblem_6_5.cs" />
     <Compile Include="Arrays\TestProblem_6_6.cs" />
     <Compile Include="BinarySearchTrees\TestProblem_15_1.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_1.cs" />
@@ -78,6 +79,8 @@
     <Compile Include="Strings\TestProblem_7_2.cs" />
     <Compile Include="Strings\TestProblem_7_1.cs" />
     <Compile Include="Strings\TestProblem_7_4.cs" />
+    <Compile Include="Strings\TestProblem_7_5.cs" />
+    <Compile Include="Strings\TestProblem_7_6.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ElementsOfProgrammingInterviews\ElementsOfProgrammingInterviews.csproj">

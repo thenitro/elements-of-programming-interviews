@@ -43,6 +43,7 @@
     <Compile Include="Arrays\Problem_6_16.cs" />
     <Compile Include="Arrays\Problem_6_17.cs" />
     <Compile Include="Arrays\Problem_6_2.cs" />
+    <Compile Include="Arrays\Problem_6_5.cs" />
     <Compile Include="Arrays\Problem_6_6.cs" />
     <Compile Include="BinarySearchTrees\Problem_15_1.cs" />
     <Compile Include="BinaryTrees\Problem_10_1.cs" />
@@ -75,6 +76,8 @@
     <Compile Include="Strings\Problem_7_1.cs" />
     <Compile Include="Strings\Problem_7_2.cs" />
     <Compile Include="Strings\Problem_7_4.cs" />
+    <Compile Include="Strings\Problem_7_5.cs" />
+    <Compile Include="Strings\Problem_7_6.cs" />
     <Compile Include="Structures\BinaryTreeNode.cs" />
     <Compile Include="Structures\HeapNode.cs" />
     <Compile Include="Structures\LinkedListNode.cs" />
