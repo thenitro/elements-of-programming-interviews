@@ -59,6 +59,7 @@
     <Compile Include="LinkedLists\Problem_8_1.cs" />
     <Compile Include="LinkedLists\Problem_8_2.cs" />
     <Compile Include="LinkedLists\Problem_8_3.cs" />
+    <Compile Include="LinkedLists\Problem_8_4.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_1.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_2.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_7.cs" />
