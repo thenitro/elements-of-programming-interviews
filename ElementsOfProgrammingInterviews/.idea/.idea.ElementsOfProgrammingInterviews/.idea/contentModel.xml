@@ -75,6 +75,7 @@
           <e p="Problem_9_1.cs" t="Include" />
           <e p="Problem_9_2.cs" t="Include" />
           <e p="Problem_9_7.cs" t="Include" />
+          <e p="Problem_9_8.cs" t="Include" />
         </e>
         <e p="Strings" t="Include">
           <e p="Problem_7_1.cs" t="Include" />
@@ -161,6 +162,7 @@
           <e p="TestProblem_9_1.cs" t="Include" />
           <e p="TestProblem_9_2.cs" t="Include" />
           <e p="TestProblem_9_7.cs" t="Include" />
+          <e p="TestProblem_9_8.cs" t="Include" />
         </e>
         <e p="Strings" t="Include">
           <e p="TestProblem_7_1.cs" t="Include" />
