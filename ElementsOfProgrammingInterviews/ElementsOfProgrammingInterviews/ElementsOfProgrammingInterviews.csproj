@@ -74,6 +74,7 @@
     <Compile Include="Sorting\Problem_14_1.cs" />
     <Compile Include="Sorting\Problem_14_2.cs" />
     <Compile Include="StacksAndQueues\Problem_9_1.cs" />
+    <Compile Include="StacksAndQueues\Problem_9_2.cs" />
     <Compile Include="StacksAndQueues\Problem_9_7.cs" />
     <Compile Include="Strings\Problem_7_1.cs" />
     <Compile Include="Strings\Problem_7_2.cs" />

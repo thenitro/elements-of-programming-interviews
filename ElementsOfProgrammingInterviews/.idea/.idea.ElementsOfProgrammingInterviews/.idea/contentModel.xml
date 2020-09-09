@@ -73,6 +73,7 @@
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="Problem_9_1.cs" t="Include" />
+          <e p="Problem_9_2.cs" t="Include" />
           <e p="Problem_9_7.cs" t="Include" />
         </e>
         <e p="Strings" t="Include">
@@ -158,6 +159,7 @@
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="TestProblem_9_1.cs" t="Include" />
+          <e p="TestProblem_9_2.cs" t="Include" />
           <e p="TestProblem_9_7.cs" t="Include" />
         </e>
         <e p="Strings" t="Include">
