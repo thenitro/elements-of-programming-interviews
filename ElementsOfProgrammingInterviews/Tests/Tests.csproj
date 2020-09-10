@@ -51,6 +51,7 @@
     <Compile Include="Arrays\TestProblem_6_6.cs" />
     <Compile Include="BinarySearchTrees\TestProblem_15_1.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_1.cs" />
+    <Compile Include="BinaryTrees\TestProblem_10_2.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_4.cs" />
     <Compile Include="DynamicProgramming\TestProblem_17_1.cs" />
     <Compile Include="Graphs\TestProblem_19_1.cs" />
