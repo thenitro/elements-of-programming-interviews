@@ -20,6 +20,7 @@
         </e>
         <e p="BinaryTrees" t="Include">
           <e p="Problem_10_1.cs" t="Include" />
+          <e p="Problem_10_12.cs" t="Include" />
           <e p="Problem_10_2.cs" t="Include" />
           <e p="Problem_10_4.cs" t="Include" />
         </e>
@@ -110,6 +111,7 @@
         </e>
         <e p="BinaryTrees" t="Include">
           <e p="TestProblem_10_1.cs" t="Include" />
+          <e p="TestProblem_10_12.cs" t="Include" />
           <e p="TestProblem_10_2.cs" t="Include" />
           <e p="TestProblem_10_4.cs" t="Include" />
         </e>
