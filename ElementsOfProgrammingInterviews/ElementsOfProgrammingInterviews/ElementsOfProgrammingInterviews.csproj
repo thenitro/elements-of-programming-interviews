@@ -57,6 +57,7 @@
     <Compile Include="HashTables\Problem_13_3.cs" />
     <Compile Include="HashTables\Problem_13_6.cs" />
     <Compile Include="Heaps\Problem_11_1.cs" />
+    <Compile Include="Heaps\Problem_11_3.cs" />
     <Compile Include="Heaps\Problem_11_4.cs" />
     <Compile Include="LinkedLists\Problem_8_1.cs" />
     <Compile Include="LinkedLists\Problem_8_2.cs" />

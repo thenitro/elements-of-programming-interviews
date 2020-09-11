@@ -41,6 +41,7 @@
         </e>
         <e p="Heaps" t="Include">
           <e p="Problem_11_1.cs" t="Include" />
+          <e p="Problem_11_3.cs" t="Include" />
           <e p="Problem_11_4.cs" t="Include" />
         </e>
         <e p="LinkedLists" t="Include">
@@ -131,6 +132,7 @@
         </e>
         <e p="Heaps" t="Include">
           <e p="TestProblem_11_1.cs" t="Include" />
+          <e p="TestProblem_11_3.cs" t="Include" />
           <e p="TestProblem_11_4.cs" t="Include" />
         </e>
         <e p="LinkedLists" t="Include">
