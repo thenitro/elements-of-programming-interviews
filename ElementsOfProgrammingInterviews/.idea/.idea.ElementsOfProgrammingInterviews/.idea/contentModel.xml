@@ -67,6 +67,7 @@
         </e>
         <e p="Searching" t="Include">
           <e p="Problem_12_1.cs" t="Include" />
+          <e p="Problem_12_3.cs" t="Include" />
           <e p="Problem_12_4.cs" t="Include" />
           <e p="Problem_12_8.cs" t="Include" />
         </e>
@@ -157,6 +158,7 @@
         </e>
         <e p="Searching" t="Include">
           <e p="TestProblem_12_1.cs" t="Include" />
+          <e p="TestProblem_12_3.cs" t="Include" />
           <e p="TestProblem_12_4.cs" t="Include" />
           <e p="TestProblem_12_8.cs" t="Include" />
         </e>
