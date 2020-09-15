@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\timur\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\timur\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ElementsOfProgrammingInterviews.-1205783870.00" t="ExcludeRecursive" />
+    <e p="C:\Users\thenitro\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\thenitro\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ElementsOfProgrammingInterviews.-1205783870.00" t="ExcludeRecursive" />
     <e p="D:\elements-of-programming-interviews\ElementsOfProgrammingInterviews" t="IncludeFlat">
       <e p="ElementsOfProgrammingInterviews" t="IncludeRecursive">
         <e p="Arrays" t="Include">
@@ -37,6 +37,7 @@
         <e p="HashTables" t="Include">
           <e p="Problem_13_2.cs" t="Include" />
           <e p="Problem_13_3.cs" t="Include" />
+          <e p="Problem_13_4.cs" t="Include" />
           <e p="Problem_13_6.cs" t="Include" />
         </e>
         <e p="Heaps" t="Include">
@@ -129,6 +130,7 @@
         <e p="HashTables" t="Include">
           <e p="TestProblem_13_2.cs" t="Include" />
           <e p="TestProblem_13_3.cs" t="Include" />
+          <e p="TestProblem_13_4.cs" t="Include" />
           <e p="TestProblem_13_6.cs" t="Include" />
         </e>
         <e p="Heaps" t="Include">
