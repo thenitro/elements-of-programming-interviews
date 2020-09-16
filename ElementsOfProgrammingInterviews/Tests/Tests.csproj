@@ -57,7 +57,7 @@
     <Compile Include="DynamicProgramming\TestProblem_17_1.cs" />
     <Compile Include="Graphs\TestProblem_19_1.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_4.cs" />
-    <Compile Include="HashTables\TestProblem_13_4.cs" />
+    <Compile Include="HashTables\TestProblem_13_1.cs" />
     <Compile Include="HashTables\TestProblem_13_2.cs" />
     <Compile Include="HashTables\TestProblem_13_3.cs" />
     <Compile Include="HashTables\TestProblem_13_6.cs" />
@@ -81,7 +81,6 @@
     <Compile Include="Searching\TestProblem_12_8.cs" />
     <Compile Include="Sorting\TestProblem_14_1.cs" />
     <Compile Include="Sorting\TestProblem_14_2.cs" />
-    <Compile Include="Sorting\TestProblem_14_4.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_1.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_2.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_7.cs" />

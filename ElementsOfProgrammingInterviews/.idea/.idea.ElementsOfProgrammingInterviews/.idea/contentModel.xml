@@ -35,6 +35,7 @@
           <e p="Problem_18_4.cs" t="Include" />
         </e>
         <e p="HashTables" t="Include">
+          <e p="Problem_13_1.cs" t="Include" />
           <e p="Problem_13_2.cs" t="Include" />
           <e p="Problem_13_3.cs" t="Include" />
           <e p="Problem_13_4.cs" t="Include" />
@@ -129,6 +130,7 @@
           <e p="TestProblem_18_4.cs" t="Include" />
         </e>
         <e p="HashTables" t="Include">
+          <e p="TestProblem_13_1.cs" t="Include" />
           <e p="TestProblem_13_2.cs" t="Include" />
           <e p="TestProblem_13_3.cs" t="Include" />
           <e p="TestProblem_13_4.cs" t="Include" />

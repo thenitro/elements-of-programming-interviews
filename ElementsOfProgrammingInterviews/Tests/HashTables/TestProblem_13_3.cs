@@ -1,7 +1,7 @@
 using ElementsOfProgrammingInterviews.HashTables;
 using NUnit.Framework;
 
-namespace Tests.Searching
+namespace Tests.HashTables
 {
     [TestFixture]
     public class TestProblem_13_3
