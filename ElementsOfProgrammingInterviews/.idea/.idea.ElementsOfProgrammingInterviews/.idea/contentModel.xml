@@ -75,6 +75,7 @@
         <e p="Sorting" t="Include">
           <e p="Problem_14_1.cs" t="Include" />
           <e p="Problem_14_2.cs" t="Include" />
+          <e p="Problem_14_4.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="Problem_9_1.cs" t="Include" />
@@ -167,6 +168,7 @@
         <e p="Sorting" t="Include">
           <e p="TestProblem_14_1.cs" t="Include" />
           <e p="TestProblem_14_2.cs" t="Include" />
+          <e p="TestProblem_14_4.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="TestProblem_9_1.cs" t="Include" />

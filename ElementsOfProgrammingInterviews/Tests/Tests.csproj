@@ -81,6 +81,7 @@
     <Compile Include="Searching\TestProblem_12_8.cs" />
     <Compile Include="Sorting\TestProblem_14_1.cs" />
     <Compile Include="Sorting\TestProblem_14_2.cs" />
+    <Compile Include="Sorting\TestProblem_14_4.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_1.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_2.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_7.cs" />
