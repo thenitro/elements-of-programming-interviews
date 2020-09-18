@@ -17,6 +17,8 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="BinarySearchTrees" t="Include">
           <e p="Problem_15_1.cs" t="Include" />
+          <e p="Problem_15_2.cs" t="Include" />
+          <e p="Problem_15_3.cs" t="Include" />
         </e>
         <e p="BinaryTrees" t="Include">
           <e p="Problem_10_1.cs" t="Include" />
@@ -113,6 +115,8 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="BinarySearchTrees" t="Include">
           <e p="TestProblem_15_1.cs" t="Include" />
+          <e p="TestProblem_15_2.cs" t="Include" />
+          <e p="TestProblem_15_3.cs" t="Include" />
         </e>
         <e p="BinaryTrees" t="Include">
           <e p="TestProblem_10_1.cs" t="Include" />

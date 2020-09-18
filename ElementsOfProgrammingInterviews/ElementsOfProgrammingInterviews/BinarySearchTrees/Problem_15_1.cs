@@ -1,4 +1,3 @@
-using System;
 using ElementsOfProgrammingInterviews.Structures;
 
 namespace ElementsOfProgrammingInterviews.BinarySearchTrees
