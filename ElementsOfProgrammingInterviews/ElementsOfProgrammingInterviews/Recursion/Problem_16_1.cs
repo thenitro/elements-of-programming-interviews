@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ElementsOfProgrammingInterviews.BinarySearchTrees
+namespace ElementsOfProgrammingInterviews.Recursion
 {
     public class Problem_16_1
     {

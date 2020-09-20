@@ -68,6 +68,7 @@
         </e>
         <e p="Recursion" t="Include">
           <e p="Problem_16_1.cs" t="Include" />
+          <e p="Problem_16_2.cs" t="Include" />
         </e>
         <e p="Searching" t="Include">
           <e p="Problem_12_1.cs" t="Include" />
@@ -137,7 +138,6 @@
           <e p="TestProblem_13_1.cs" t="Include" />
           <e p="TestProblem_13_2.cs" t="Include" />
           <e p="TestProblem_13_3.cs" t="Include" />
-          <e p="TestProblem_13_4.cs" t="Include" />
           <e p="TestProblem_13_6.cs" t="Include" />
         </e>
         <e p="Heaps" t="Include">
@@ -164,6 +164,7 @@
         </e>
         <e p="Recursion" t="Include">
           <e p="TestProblem_16_1.cs" t="Include" />
+          <e p="TestProblem_16_2.cs" t="Include" />
         </e>
         <e p="Searching" t="Include">
           <e p="TestProblem_12_1.cs" t="Include" />
@@ -174,7 +175,6 @@
         <e p="Sorting" t="Include">
           <e p="TestProblem_14_1.cs" t="Include" />
           <e p="TestProblem_14_2.cs" t="Include" />
-          <e p="TestProblem_14_4.cs" t="Include" />
         </e>
         <e p="StacksAndQueues" t="Include">
           <e p="TestProblem_9_1.cs" t="Include" />
