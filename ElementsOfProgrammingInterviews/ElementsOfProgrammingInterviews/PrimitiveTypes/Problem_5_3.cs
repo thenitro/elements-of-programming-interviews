@@ -1,5 +1,3 @@
-using System;
-
 namespace ElementsOfProgrammingInterviews.PrimitiveTypes
 {
     public class Problem_5_3

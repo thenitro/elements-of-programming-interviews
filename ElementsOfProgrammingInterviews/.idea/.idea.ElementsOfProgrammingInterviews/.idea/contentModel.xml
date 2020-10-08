@@ -60,6 +60,7 @@
           <e p="Problem_5_1.cs" t="Include" />
           <e p="Problem_5_2.cs" t="Include" />
           <e p="Problem_5_3.cs" t="Include" />
+          <e p="Problem_5_4.cs" t="Include" />
           <e p="Problem_5_7.cs" t="Include" />
           <e p="Problem_5_8.cs" t="Include" />
         </e>
@@ -158,6 +159,7 @@
           <e p="TestProblem_5_1.cs" t="Include" />
           <e p="TestProblem_5_2.cs" t="Include" />
           <e p="TestProblem_5_3.cs" t="Include" />
+          <e p="TestProblem_5_4.cs" t="Include" />
           <e p="TestProblem_5_7.cs" t="Include" />
           <e p="TestProblem_5_8.cs" t="Include" />
         </e>
