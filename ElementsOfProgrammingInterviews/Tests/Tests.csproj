@@ -73,6 +73,7 @@
     <Compile Include="LinkedLists\TestProblem_8_7.cs" />
     <Compile Include="PrimitiveTypes\TestProblem_5_1.cs" />
     <Compile Include="PrimitiveTypes\TestProblem_5_2.cs" />
+    <Compile Include="PrimitiveTypes\TestProblem_5_3.cs" />
     <Compile Include="PrimitiveTypes\TestProblem_5_7.cs" />
     <Compile Include="PrimitiveTypes\TestProblem_5_8.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

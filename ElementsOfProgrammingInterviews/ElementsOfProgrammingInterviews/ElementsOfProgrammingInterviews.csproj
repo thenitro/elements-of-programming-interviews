@@ -70,6 +70,7 @@
     <Compile Include="LinkedLists\Problem_8_7.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_1.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_2.cs" />
+    <Compile Include="PrimitiveTypes\Problem_5_3.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_7.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_8.cs" />
     <Compile Include="Program.cs" />
