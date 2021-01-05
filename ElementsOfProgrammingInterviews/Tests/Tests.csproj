@@ -48,6 +48,7 @@
     <Compile Include="Arrays\TestProblem_6_17.cs" />
     <Compile Include="Arrays\TestProblem_6_2.cs" />
     <Compile Include="Arrays\TestProblem_6_3.cs" />
+    <Compile Include="Arrays\TestProblem_6_4.cs" />
     <Compile Include="Arrays\TestProblem_6_5.cs" />
     <Compile Include="Arrays\TestProblem_6_6.cs" />
     <Compile Include="BinarySearchTrees\TestProblem_15_1.cs" />
