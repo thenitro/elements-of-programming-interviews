@@ -41,6 +41,7 @@
     <Compile Include="Arrays\Problem_6_1.cs" />
     <Compile Include="Arrays\Problem_6_10.cs" />
     <Compile Include="Arrays\Problem_6_11.cs" />
+    <Compile Include="Arrays\Problem_6_15.cs" />
     <Compile Include="Arrays\Problem_6_16.cs" />
     <Compile Include="Arrays\Problem_6_17.cs" />
     <Compile Include="Arrays\Problem_6_2.cs" />
