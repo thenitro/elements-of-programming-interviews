@@ -12,6 +12,7 @@
           <e p="Problem_6_15.cs" t="Include" />
           <e p="Problem_6_16.cs" t="Include" />
           <e p="Problem_6_17.cs" t="Include" />
+          <e p="Problem_6_18.cs" t="Include" />
           <e p="Problem_6_2.cs" t="Include" />
           <e p="Problem_6_3.cs" t="Include" />
           <e p="Problem_6_4.cs" t="Include" />
@@ -119,6 +120,7 @@
           <e p="TestProblem_6_11.cs" t="Include" />
           <e p="TestProblem_6_16.cs" t="Include" />
           <e p="TestProblem_6_17.cs" t="Include" />
+          <e p="TestProblem_6_18.cs" t="Include" />
           <e p="TestProblem_6_2.cs" t="Include" />
           <e p="TestProblem_6_3.cs" t="Include" />
           <e p="TestProblem_6_4.cs" t="Include" />

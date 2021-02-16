@@ -47,6 +47,7 @@
     <Compile Include="Arrays\TestProblem_6_11.cs" />
     <Compile Include="Arrays\TestProblem_6_16.cs" />
     <Compile Include="Arrays\TestProblem_6_17.cs" />
+    <Compile Include="Arrays\TestProblem_6_18.cs" />
     <Compile Include="Arrays\TestProblem_6_2.cs" />
     <Compile Include="Arrays\TestProblem_6_3.cs" />
     <Compile Include="Arrays\TestProblem_6_4.cs" />
