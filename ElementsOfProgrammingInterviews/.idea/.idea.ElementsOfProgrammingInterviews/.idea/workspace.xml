@@ -177,6 +177,8 @@
       <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_15.cs" />
       <option value="$PROJECT_DIR$/Tests/Arrays/TestProblem_6_18.cs" />
       <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_18.cs" />
+      <option value="$PROJECT_DIR$/Tests/Arrays/TestProblem_6_19.cs" />
+      <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_19.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1jEYElL8uii5esdEA2DVwRpBQla" />
@@ -188,6 +190,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -287,7 +291,7 @@
       <workItem from="1612256572881" duration="1163000" />
       <workItem from="1612430573526" duration="3211000" />
       <workItem from="1613034258703" duration="1437000" />
-      <workItem from="1613482003762" duration="297000" />
+      <workItem from="1613482003762" duration="1411000" />
     </task>
     <servers />
   </component>
