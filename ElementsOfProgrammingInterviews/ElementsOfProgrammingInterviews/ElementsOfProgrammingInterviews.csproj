@@ -100,9 +100,11 @@
     <Compile Include="StacksAndQueues\Problem_9_8.cs" />
     <Compile Include="Strings\Problem_7_1.cs" />
     <Compile Include="Strings\Problem_7_2.cs" />
+    <Compile Include="Strings\Problem_7_3.cs" />
     <Compile Include="Strings\Problem_7_4.cs" />
     <Compile Include="Strings\Problem_7_5.cs" />
     <Compile Include="Strings\Problem_7_6.cs" />
+    <Compile Include="Strings\Problem_7_7.cs" />
     <Compile Include="Structures\BinaryTreeNode.cs" />
     <Compile Include="Structures\HeapNode.cs" />
     <Compile Include="Structures\LinkedListNode.cs" />

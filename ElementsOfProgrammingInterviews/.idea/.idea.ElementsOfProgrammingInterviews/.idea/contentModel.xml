@@ -101,9 +101,11 @@
         <e p="Strings" t="Include">
           <e p="Problem_7_1.cs" t="Include" />
           <e p="Problem_7_2.cs" t="Include" />
+          <e p="Problem_7_3.cs" t="Include" />
           <e p="Problem_7_4.cs" t="Include" />
           <e p="Problem_7_5.cs" t="Include" />
           <e p="Problem_7_6.cs" t="Include" />
+          <e p="Problem_7_7.cs" t="Include" />
         </e>
         <e p="Structures" t="Include">
           <e p="BinaryTreeNode.cs" t="Include" />
@@ -206,9 +208,11 @@
         <e p="Strings" t="Include">
           <e p="TestProblem_7_1.cs" t="Include" />
           <e p="TestProblem_7_2.cs" t="Include" />
+          <e p="TestProblem_7_3.cs" t="Include" />
           <e p="TestProblem_7_4.cs" t="Include" />
           <e p="TestProblem_7_5.cs" t="Include" />
           <e p="TestProblem_7_6.cs" t="Include" />
+          <e p="TestProblem_7_7.cs" t="Include" />
         </e>
         <e p="Tests.csproj" t="IncludeRecursive" />
       </e>

@@ -179,6 +179,11 @@
       <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_18.cs" />
       <option value="$PROJECT_DIR$/Tests/Arrays/TestProblem_6_19.cs" />
       <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Arrays/Problem_6_19.cs" />
+      <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_3.cs" />
+      <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_3.cs" />
+      <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_4.cs" />
+      <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_7.cs" />
+      <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_7.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1jEYElL8uii5esdEA2DVwRpBQla" />
@@ -292,6 +297,8 @@
       <workItem from="1612430573526" duration="3211000" />
       <workItem from="1613034258703" duration="1437000" />
       <workItem from="1613482003762" duration="1411000" />
+      <workItem from="1613667181677" duration="1641000" />
+      <workItem from="1614069337665" duration="609000" />
     </task>
     <servers />
   </component>
