@@ -99,6 +99,7 @@
     <Compile Include="StacksAndQueues\TestProblem_9_7.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_8.cs" />
     <Compile Include="Strings\TestProblem_7_10.cs" />
+    <Compile Include="Strings\TestProblem_7_11.cs" />
     <Compile Include="Strings\TestProblem_7_2.cs" />
     <Compile Include="Strings\TestProblem_7_1.cs" />
     <Compile Include="Strings\TestProblem_7_3.cs" />

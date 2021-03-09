@@ -26,6 +26,7 @@
       <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/bin/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/bin/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Strings/TestProblem_7_10.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Strings/TestProblem_7_10.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Tests.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/Tests.dll" afterDir="false" />
@@ -45,6 +46,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Tests/PrimitiveTypes/TestProblem_5_6.cs" root0="FORCE_HIGHLIGHTING" />
@@ -188,8 +197,10 @@
       <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_8.cs" />
       <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_9.cs" />
       <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_9.cs" />
-      <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_10.cs" />
       <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_10.cs" />
+      <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_10.cs" />
+      <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_11.cs" />
+      <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_11.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1jEYElL8uii5esdEA2DVwRpBQla" />
@@ -306,7 +317,7 @@
       <workItem from="1613667181677" duration="1641000" />
       <workItem from="1614069337665" duration="2054000" />
       <workItem from="1614871510513" duration="1555000" />
-      <workItem from="1615280975590" duration="477000" />
+      <workItem from="1615280975590" duration="1814000" />
     </task>
     <servers />
   </component>

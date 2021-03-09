@@ -1,4 +1,3 @@
-using System;
 using ElementsOfProgrammingInterviews.Strings;
 using NUnit.Framework;
 
