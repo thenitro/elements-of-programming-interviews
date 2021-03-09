@@ -100,6 +100,7 @@
         </e>
         <e p="Strings" t="Include">
           <e p="Problem_7_1.cs" t="Include" />
+          <e p="Problem_7_10.cs" t="Include" />
           <e p="Problem_7_2.cs" t="Include" />
           <e p="Problem_7_3.cs" t="Include" />
           <e p="Problem_7_4.cs" t="Include" />
@@ -209,6 +210,7 @@
         </e>
         <e p="Strings" t="Include">
           <e p="TestProblem_7_1.cs" t="Include" />
+          <e p="TestProblem_7_10.cs" t="Include" />
           <e p="TestProblem_7_2.cs" t="Include" />
           <e p="TestProblem_7_3.cs" t="Include" />
           <e p="TestProblem_7_4.cs" t="Include" />
