@@ -103,6 +103,7 @@
           <e p="Problem_7_10.cs" t="Include" />
           <e p="Problem_7_11.cs" t="Include" />
           <e p="Problem_7_12.cs" t="Include" />
+          <e p="Problem_7_13.cs" t="Include" />
           <e p="Problem_7_2.cs" t="Include" />
           <e p="Problem_7_3.cs" t="Include" />
           <e p="Problem_7_4.cs" t="Include" />
@@ -215,6 +216,7 @@
           <e p="TestProblem_7_10.cs" t="Include" />
           <e p="TestProblem_7_11.cs" t="Include" />
           <e p="TestProblem_7_12.cs" t="Include" />
+          <e p="TestProblem_7_13.cs" t="Include" />
           <e p="TestProblem_7_2.cs" t="Include" />
           <e p="TestProblem_7_3.cs" t="Include" />
           <e p="TestProblem_7_4.cs" t="Include" />

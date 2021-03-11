@@ -102,6 +102,7 @@
     <Compile Include="Strings\Problem_7_10.cs" />
     <Compile Include="Strings\Problem_7_11.cs" />
     <Compile Include="Strings\Problem_7_12.cs" />
+    <Compile Include="Strings\Problem_7_13.cs" />
     <Compile Include="Strings\Problem_7_2.cs" />
     <Compile Include="Strings\Problem_7_3.cs" />
     <Compile Include="Strings\Problem_7_4.cs" />
