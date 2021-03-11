@@ -26,7 +26,6 @@
       <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/bin/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/bin/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/obj/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Strings/TestProblem_7_10.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Strings/TestProblem_7_10.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Tests.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/ElementsOfProgrammingInterviews.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/ElementsOfProgrammingInterviews.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/Tests.dll" afterDir="false" />
@@ -201,6 +200,8 @@
       <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_10.cs" />
       <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_11.cs" />
       <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_11.cs" />
+      <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/Strings/Problem_7_12.cs" />
+      <option value="$PROJECT_DIR$/Tests/Strings/TestProblem_7_12.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1jEYElL8uii5esdEA2DVwRpBQla" />
@@ -318,6 +319,7 @@
       <workItem from="1614069337665" duration="2054000" />
       <workItem from="1614871510513" duration="1555000" />
       <workItem from="1615280975590" duration="1814000" />
+      <workItem from="1615458605913" duration="1294000" />
     </task>
     <servers />
   </component>
