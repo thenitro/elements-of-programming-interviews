@@ -24,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ElementsOfProgrammingInterviews/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/ElementsOfProgrammingInterviews.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ElementsOfProgrammingInterviews/ElementsOfProgrammingInterviews.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/Tests.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +202,8 @@
       <option value="$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_6.cs" />
       <option value="$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_8.cs" />
       <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_8.cs" />
+      <option value="$PROJECT_DIR$/Tests/LinkedLists/TestProblem_8_9.cs" />
+      <option value="$PROJECT_DIR$/ElementsOfProgrammingInterviews/LinkedLists/Problem_8_9.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1jEYElL8uii5esdEA2DVwRpBQla" />
@@ -320,7 +323,8 @@
       <workItem from="1615280975590" duration="1814000" />
       <workItem from="1615458605913" duration="2213000" />
       <workItem from="1616058265161" duration="1461000" />
-      <workItem from="1617088493667" duration="1093000" />
+      <workItem from="1617088493667" duration="1685000" />
+      <workItem from="1617865919094" duration="1331000" />
     </task>
     <servers />
   </component>
