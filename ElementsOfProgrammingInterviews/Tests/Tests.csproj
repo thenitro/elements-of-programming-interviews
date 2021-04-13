@@ -73,6 +73,7 @@
     <Compile Include="Heaps\TestProblem_11_3.cs" />
     <Compile Include="Heaps\TestProblem_11_4.cs" />
     <Compile Include="LinkedLists\TestProblem_8_1.cs" />
+    <Compile Include="LinkedLists\TestProblem_8_10.cs" />
     <Compile Include="LinkedLists\TestProblem_8_2.cs" />
     <Compile Include="LinkedLists\TestProblem_8_3.cs" />
     <Compile Include="LinkedLists\TestProblem_8_4.cs" />
