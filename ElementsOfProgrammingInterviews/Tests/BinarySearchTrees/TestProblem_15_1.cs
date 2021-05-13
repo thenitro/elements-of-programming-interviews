@@ -28,7 +28,7 @@ namespace Tests.BinarySearchTrees
                     }
                 },
             };
-            
+
             Assert.True(new Problem_15_1().Solution(root));
         }
         
@@ -54,7 +54,18 @@ namespace Tests.BinarySearchTrees
                 },
             };
             
+            var root2 = new BinaryTreeNode(10)
+            {
+                Left = new BinaryTreeNode(9)
+                {
+                    Left = new BinaryTreeNode(8),
+                    Right = new BinaryTreeNode(12)
+                },
+                Right = new BinaryTreeNode(11)
+            };
+            
             Assert.False(new Problem_15_1().Solution(root));
+            Assert.False(new Problem_15_1().Solution(root2));
         }
     }
 }

@@ -6,24 +6,23 @@ namespace ElementsOfProgrammingInterviews.BinarySearchTrees
     {
         public bool Solution(BinaryTreeNode root)
         {
-            if (root == null)
+            return InRange(root, int.MinValue, int.MaxValue);
+        }
+
+        private bool InRange(BinaryTreeNode node, int minValue, int maxValue)
+        {
+            if (node == null)
             {
                 return true;
             }
 
-            var result = true;
-            
-            if (root.Left != null)
+            if (node.Data < minValue || node.Data > maxValue)
             {
-                result = root.Left.Data <= root.Data && Solution(root.Left);
+                return false;
             }
 
-            if (root.Right != null)
-            {
-                result &= root.Right.Data > root.Data && Solution(root.Right);
-            }
-
-            return result;
+            return InRange(node.Left, minValue, node.Data) &&
+                   InRange(node.Right, node.Data, maxValue);
         }
     }
 }

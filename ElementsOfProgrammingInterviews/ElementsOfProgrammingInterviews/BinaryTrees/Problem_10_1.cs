@@ -7,18 +7,32 @@ namespace ElementsOfProgrammingInterviews.BinaryTrees
     {
         public bool Solution(BinaryTreeNode root)
         {
-            var diff = Math.Abs(SolutionHelper(root.Left) - SolutionHelper(root.Right));
-            return diff <= 1;
+            return IsBalanced(root).Item1;
         }
 
-        private int SolutionHelper(BinaryTreeNode node)
+        private Tuple<bool, int> IsBalanced(BinaryTreeNode node)
         {
             if (node == null)
             {
-                return 0;
+                return new Tuple<bool, int>(true, 0);
             }
 
-            return 1 + Math.Max(SolutionHelper(node.Left), SolutionHelper(node.Right));
+            var left = IsBalanced(node.Left);
+            if (!left.Item1)
+            {
+                return new Tuple<bool, int>(false, 0);
+            }
+            
+            var right = IsBalanced(node.Right);
+            if (!right.Item1)
+            {
+                return new Tuple<bool, int>(false, 0);
+            }
+
+            var diff = Math.Abs(left.Item2 - right.Item2);
+            var isBalanced = diff <= 1;
+            
+            return new Tuple<bool, int>(isBalanced, Math.Max(left.Item2, right.Item2) + 1);
         }
     }
 }
