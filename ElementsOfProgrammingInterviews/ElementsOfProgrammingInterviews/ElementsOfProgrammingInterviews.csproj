@@ -104,6 +104,7 @@
     <Compile Include="Sorting\Problem_14_4.cs" />
     <Compile Include="StacksAndQueues\Problem_9_1.cs" />
     <Compile Include="StacksAndQueues\Problem_9_2.cs" />
+    <Compile Include="StacksAndQueues\Problem_9_3.cs" />
     <Compile Include="StacksAndQueues\Problem_9_7.cs" />
     <Compile Include="StacksAndQueues\Problem_9_8.cs" />
     <Compile Include="Strings\Problem_7_1.cs" />
