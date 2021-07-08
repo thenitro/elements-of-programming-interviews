@@ -106,6 +106,7 @@
     <Compile Include="StacksAndQueues\TestProblem_9_3.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_7.cs" />
     <Compile Include="StacksAndQueues\TestProblem_9_8.cs" />
+    <Compile Include="StacksAndQueues\TestProblem_9_9.cs" />
     <Compile Include="Strings\TestProblem_7_10.cs" />
     <Compile Include="Strings\TestProblem_7_11.cs" />
     <Compile Include="Strings\TestProblem_7_12.cs" />
