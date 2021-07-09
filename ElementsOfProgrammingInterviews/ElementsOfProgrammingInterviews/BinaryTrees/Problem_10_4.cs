@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+using System;
 using ElementsOfProgrammingInterviews.Structures;
 
 namespace ElementsOfProgrammingInterviews.BinaryTrees
@@ -7,27 +7,46 @@ namespace ElementsOfProgrammingInterviews.BinaryTrees
     {
         public BinaryTreeNode Solution(BinaryTreeNode a, BinaryTreeNode b)
         {
-            var set = new HashSet<BinaryTreeNode>();
-            var node = a;
+            var iterA = a;
+            var iterB = b;
+
+            var depthA = GetDepth(a);
+            var depthB = GetDepth(b);
+
+            if (depthB > depthA)
+            {
+                var tmp = iterA;
+                iterA = iterB;
+                iterB = tmp;
+            }
+
+            var diff = Math.Abs(depthA - depthB);
+            while (diff > 0)
+            {
+                iterA = iterA.Parent;
+                diff--;
+            }
+
+            while (iterA != iterB)
+            {
+                iterA = iterA.Parent;
+                iterB = iterB.Parent;
+            }
+
+            return iterA;
+        }
+
+        private int GetDepth(BinaryTreeNode node)
+        {
+            var depth = 0;
 
             while (node != null)
             {
-                set.Add(node);
                 node = node.Parent;
+                depth++;
             }
 
-            node = b;
-            while (node != null)
-            {
-                if (set.Contains(node))
-                {
-                    return node;
-                }
-
-                node = node.Parent;
-            }
-
-            return null;
+            return depth;
         }
     }
 }
