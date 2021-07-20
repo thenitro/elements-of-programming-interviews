@@ -5,7 +5,7 @@ namespace ElementsOfProgrammingInterviews.BinaryTrees
 {
     public class Problem_10_4
     {
-        public BinaryTreeNode Solution(BinaryTreeNode a, BinaryTreeNode b)
+        public BinaryTreeNode<int> Solution(BinaryTreeNode<int> a, BinaryTreeNode<int> b)
         {
             var iterA = a;
             var iterB = b;
@@ -36,7 +36,7 @@ namespace ElementsOfProgrammingInterviews.BinaryTrees
             return iterA;
         }
 
-        private int GetDepth(BinaryTreeNode node)
+        private int GetDepth(BinaryTreeNode<int> node)
         {
             var depth = 0;
 

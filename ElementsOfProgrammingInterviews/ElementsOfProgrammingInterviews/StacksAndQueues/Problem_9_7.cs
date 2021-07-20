@@ -5,10 +5,10 @@ namespace ElementsOfProgrammingInterviews.StacksAndQueues
 {
     public class Problem_9_7
     {
-        public List<List<int>> Solution(BinaryTreeNode root)
+        public List<List<int>> Solution(BinaryTreeNode<int> root)
         {
             var result = new List<List<int>>();
-            var queue = new Queue<BinaryTreeNode>();
+            var queue = new Queue<BinaryTreeNode<int>>();
                 queue.Enqueue(root);
                 
             var counter = 1;

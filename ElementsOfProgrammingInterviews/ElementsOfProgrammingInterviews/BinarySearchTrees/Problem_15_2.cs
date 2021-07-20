@@ -4,9 +4,9 @@ namespace ElementsOfProgrammingInterviews.BinarySearchTrees
 {
     public class Problem_15_2
     {
-        public BinaryTreeNode Solution(BinaryTreeNode node, int k)
+        public BinaryTreeNode<int> Solution(BinaryTreeNode<int> node, int k)
         {
-            BinaryTreeNode firstBigger = null;
+            BinaryTreeNode<int> firstBigger = null;
             
             while (node != null)
             {

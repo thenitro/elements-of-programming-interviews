@@ -5,16 +5,16 @@ namespace ElementsOfProgrammingInterviews.BinarySearchTrees
 {
     public class Problem_15_3
     {
-        public List<BinaryTreeNode> Solution(BinaryTreeNode node, int k)
+        public List<BinaryTreeNode<int>> Solution(BinaryTreeNode<int> node, int k)
         {
-            var result = new List<BinaryTreeNode>();
+            var result = new List<BinaryTreeNode<int>>();
 
             SolutionHelper(node, k, result);
 
             return result;
         }
 
-        private void SolutionHelper(BinaryTreeNode node, int k, List<BinaryTreeNode> result)
+        private void SolutionHelper(BinaryTreeNode<int> node, int k, List<BinaryTreeNode<int>> result)
         {
             if (node == null)
             {

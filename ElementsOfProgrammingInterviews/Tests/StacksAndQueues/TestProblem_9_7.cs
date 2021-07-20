@@ -10,21 +10,21 @@ namespace Tests.StacksAndQueues
         [Test]
         public void Smoke()
         {
-            var root = new BinaryTreeNode(3)
+            var root = new BinaryTreeNode<int>(3)
             {
-                Left = new BinaryTreeNode(2)
+                Left = new BinaryTreeNode<int>(2)
                 {
-                    Left = new BinaryTreeNode(1)
+                    Left = new BinaryTreeNode<int>(1)
                 },
-                Right = new BinaryTreeNode(6)
+                Right = new BinaryTreeNode<int>(6)
                 {
-                    Left = new BinaryTreeNode(5)
+                    Left = new BinaryTreeNode<int>(5)
                     {
-                        Left = new BinaryTreeNode(4)
+                        Left = new BinaryTreeNode<int>(4)
                     },
-                    Right = new BinaryTreeNode(7)
+                    Right = new BinaryTreeNode<int>(7)
                     {
-                        Right = new BinaryTreeNode(8)
+                        Right = new BinaryTreeNode<int>(8)
                     }
                 }
             };

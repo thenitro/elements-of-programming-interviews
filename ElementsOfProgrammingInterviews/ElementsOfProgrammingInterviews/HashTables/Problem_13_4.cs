@@ -5,9 +5,9 @@ namespace ElementsOfProgrammingInterviews.HashTables
 {
     public class Problem_13_4
     {
-        public BinaryTreeNode Solution(BinaryTreeNode a, BinaryTreeNode b)
+        public BinaryTreeNode<int> Solution(BinaryTreeNode<int> a, BinaryTreeNode<int> b)
         {
-            var set = new HashSet<BinaryTreeNode>();
+            var set = new HashSet<BinaryTreeNode<int>>();
 
             while (a != null || b != null)
             {

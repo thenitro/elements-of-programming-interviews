@@ -5,12 +5,12 @@ namespace ElementsOfProgrammingInterviews.BinaryTrees
 {
     public class Problem_10_1
     {
-        public bool Solution(BinaryTreeNode root)
+        public bool Solution(BinaryTreeNode<int> root)
         {
             return IsBalanced(root).Item1;
         }
 
-        private Tuple<bool, int> IsBalanced(BinaryTreeNode node)
+        private Tuple<bool, int> IsBalanced(BinaryTreeNode<int> node)
         {
             if (node == null)
             {

@@ -10,20 +10,20 @@ namespace Tests.BinaryTrees
         [Test]
         public void Smoke()
         {
-            var root = new BinaryTreeNode(314)
+            var root = new BinaryTreeNode<int>(314)
             {
-                Left = new BinaryTreeNode(6)
+                Left = new BinaryTreeNode<int>(6)
                 {
-                    Right = new BinaryTreeNode(2)
+                    Right = new BinaryTreeNode<int>(2)
                     {
-                        Right = new BinaryTreeNode(3)
+                        Right = new BinaryTreeNode<int>(3)
                     }
                 },
-                Right = new BinaryTreeNode(6)
+                Right = new BinaryTreeNode<int>(6)
                 {
-                    Left = new BinaryTreeNode(2)
+                    Left = new BinaryTreeNode<int>(2)
                     {
-                        Left = new BinaryTreeNode(3)
+                        Left = new BinaryTreeNode<int>(3)
                     }
                 }
             };
@@ -34,17 +34,17 @@ namespace Tests.BinaryTrees
         [Test]
         public void Negative()
         {
-            var root = new BinaryTreeNode(314)
+            var root = new BinaryTreeNode<int>(314)
             {
-                Left = new BinaryTreeNode(6)
+                Left = new BinaryTreeNode<int>(6)
                 {
-                    Right = new BinaryTreeNode(2)
+                    Right = new BinaryTreeNode<int>(2)
                 },
-                Right = new BinaryTreeNode(6)
+                Right = new BinaryTreeNode<int>(6)
                 {
-                    Left = new BinaryTreeNode(2)
+                    Left = new BinaryTreeNode<int>(2)
                     {
-                        Left = new BinaryTreeNode(3)
+                        Left = new BinaryTreeNode<int>(3)
                     }
                 }
             };

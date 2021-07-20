@@ -10,39 +10,39 @@ namespace Tests.BinarySearchTrees
         [Test]
         public void Smoke()
         {
-            var root = new BinaryTreeNode(19)
+            var root = new BinaryTreeNode<int>(19)
             {
-                Left = new BinaryTreeNode(7)
+                Left = new BinaryTreeNode<int>(7)
                 {
-                    Left = new BinaryTreeNode(3)
+                    Left = new BinaryTreeNode<int>(3)
                     {
-                        Left = new BinaryTreeNode(2),
-                        Right = new BinaryTreeNode(5),
+                        Left = new BinaryTreeNode<int>(2),
+                        Right = new BinaryTreeNode<int>(5),
                     },
-                    Right = new BinaryTreeNode(11)
+                    Right = new BinaryTreeNode<int>(11)
                     {
-                        Right = new BinaryTreeNode(17)
+                        Right = new BinaryTreeNode<int>(17)
                         {
-                            Left = new BinaryTreeNode(13)
+                            Left = new BinaryTreeNode<int>(13)
                         }
                     }
                 },
-                Right = new BinaryTreeNode(43)
+                Right = new BinaryTreeNode<int>(43)
                 {
-                    Left = new BinaryTreeNode(23)
+                    Left = new BinaryTreeNode<int>(23)
                     {
-                        Right = new BinaryTreeNode(37)
+                        Right = new BinaryTreeNode<int>(37)
                         {
-                            Left = new BinaryTreeNode(29)
+                            Left = new BinaryTreeNode<int>(29)
                             {
-                                Right = new BinaryTreeNode(31)
+                                Right = new BinaryTreeNode<int>(31)
                             },
-                            Right = new BinaryTreeNode(41)
+                            Right = new BinaryTreeNode<int>(41)
                         }
                     },
-                    Right = new BinaryTreeNode(47)
+                    Right = new BinaryTreeNode<int>(47)
                     {
-                        Right = new BinaryTreeNode(53)
+                        Right = new BinaryTreeNode<int>(53)
                     }
                 }
             };

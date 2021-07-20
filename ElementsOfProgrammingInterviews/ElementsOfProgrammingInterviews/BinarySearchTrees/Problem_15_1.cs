@@ -4,12 +4,12 @@ namespace ElementsOfProgrammingInterviews.BinarySearchTrees
 {
     public class Problem_15_1
     {
-        public bool Solution(BinaryTreeNode root)
+        public bool Solution(BinaryTreeNode<int> root)
         {
             return InRange(root, int.MinValue, int.MaxValue);
         }
 
-        private bool InRange(BinaryTreeNode node, int minValue, int maxValue)
+        private bool InRange(BinaryTreeNode<int> node, int minValue, int maxValue)
         {
             if (node == null)
             {

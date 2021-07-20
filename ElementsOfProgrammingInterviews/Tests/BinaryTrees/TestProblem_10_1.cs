@@ -10,15 +10,15 @@ namespace Tests.BinaryTrees
         [Test]
         public void Smoke()
         {
-            var root = new BinaryTreeNode(2)
+            var root = new BinaryTreeNode<int>(2)
             {
-                Left = new BinaryTreeNode(1),
-                Right = new BinaryTreeNode(3)
+                Left = new BinaryTreeNode<int>(1),
+                Right = new BinaryTreeNode<int>(3)
                 {
-                    Left = new BinaryTreeNode(7),
-                    Right = new BinaryTreeNode(4)
+                    Left = new BinaryTreeNode<int>(7),
+                    Right = new BinaryTreeNode<int>(4)
                     {
-                        Right = new BinaryTreeNode(5)
+                        Right = new BinaryTreeNode<int>(5)
                     }
                 }
             };

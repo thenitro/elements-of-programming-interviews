@@ -10,13 +10,13 @@ namespace Tests.BinaryTrees
         [Test]
         public void Smoke()
         {
-            var root = new BinaryTreeNode(2);
-            var left1 = new BinaryTreeNode(1)
+            var root = new BinaryTreeNode<int>(2);
+            var left1 = new BinaryTreeNode<int>(1)
             {
                 Parent = root
             };
             
-            var right1 = new BinaryTreeNode(3)
+            var right1 = new BinaryTreeNode<int>(3)
             {
                 Parent = root
             };
@@ -24,19 +24,19 @@ namespace Tests.BinaryTrees
             root.Left = left1;
             root.Right = right1;
             
-            var right2 = new BinaryTreeNode(4)
+            var right2 = new BinaryTreeNode<int>(4)
             {
                 Parent = right1
             };
 
             right1.Right = right2;
             
-            var left3 = new BinaryTreeNode(6)
+            var left3 = new BinaryTreeNode<int>(6)
             {
                 Parent = right2
             };
             
-            var right3 = new BinaryTreeNode(5)
+            var right3 = new BinaryTreeNode<int>(5)
             {
                 Parent = right2
             };
@@ -44,7 +44,7 @@ namespace Tests.BinaryTrees
             right2.Left = left3;
             right2.Right = right3;
             
-            var right4 = new BinaryTreeNode(7)
+            var right4 = new BinaryTreeNode<int>(7)
             {
                 Parent = right3
             };

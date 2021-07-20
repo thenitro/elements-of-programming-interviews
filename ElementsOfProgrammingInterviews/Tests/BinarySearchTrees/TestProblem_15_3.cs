@@ -10,23 +10,23 @@ namespace Tests.BinarySearchTrees
         [Test]
         public void Smoke()
         {
-            var tree = new BinaryTreeNode(108)
+            var tree = new BinaryTreeNode<int>(108)
             {
-                Left = new BinaryTreeNode(108)
+                Left = new BinaryTreeNode<int>(108)
                 {
-                    Left = new BinaryTreeNode(-10)
+                    Left = new BinaryTreeNode<int>(-10)
                     {
-                        Left = new BinaryTreeNode(-14),
-                        Right = new BinaryTreeNode(2)
+                        Left = new BinaryTreeNode<int>(-14),
+                        Right = new BinaryTreeNode<int>(2)
                     },
-                    Right = new BinaryTreeNode(108)
+                    Right = new BinaryTreeNode<int>(108)
                 },
-                Right = new BinaryTreeNode(285)
+                Right = new BinaryTreeNode<int>(285)
                 {
-                    Left = new BinaryTreeNode(243),
-                    Right = new BinaryTreeNode(285)
+                    Left = new BinaryTreeNode<int>(243),
+                    Right = new BinaryTreeNode<int>(285)
                     {
-                        Right = new BinaryTreeNode(401)
+                        Right = new BinaryTreeNode<int>(401)
                     }
                 }
             };

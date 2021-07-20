@@ -4,12 +4,12 @@ namespace ElementsOfProgrammingInterviews.BinaryTrees
 {
     public class Problem_10_2
     {
-        public bool Solution(BinaryTreeNode root)
+        public bool Solution(BinaryTreeNode<int> root)
         {
             return CheckIsEqual(root.Left, root.Right);
         }
 
-        private bool CheckIsEqual(BinaryTreeNode nodeA, BinaryTreeNode nodeB)
+        private bool CheckIsEqual(BinaryTreeNode<int> nodeA, BinaryTreeNode<int> nodeB)
         {
             if (nodeA == null && nodeB == null)
             {

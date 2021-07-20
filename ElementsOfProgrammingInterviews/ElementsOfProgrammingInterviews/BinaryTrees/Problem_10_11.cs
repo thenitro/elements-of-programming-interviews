@@ -5,15 +5,15 @@ namespace ElementsOfProgrammingInterviews.BinaryTrees
 {
     public class Problem_10_11
     {
-        public List<int> Solution(BinaryTreeNode tree)
+        public List<int> Solution(BinaryTreeNode<int> tree)
         {
-            BinaryTreeNode prev = null;
+            BinaryTreeNode<int> prev = null;
             var current = tree;
             var result = new List<int>();
 
             while (current != null)
             {
-                BinaryTreeNode next = null;
+                BinaryTreeNode<int> next = null;
 
                 if (current.Parent == prev)
                 {
