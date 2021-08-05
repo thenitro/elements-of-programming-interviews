@@ -101,6 +101,7 @@
     <Compile Include="Recursion\Problem_16_1.cs" />
     <Compile Include="Recursion\Problem_16_2.cs" />
     <Compile Include="Searching\Problem_12_1.cs" />
+    <Compile Include="Searching\Problem_12_10.cs" />
     <Compile Include="Searching\Problem_12_3.cs" />
     <Compile Include="Searching\Problem_12_4.cs" />
     <Compile Include="Searching\Problem_12_5.cs" />
@@ -129,6 +130,7 @@
     <Compile Include="Strings\Problem_7_8.cs" />
     <Compile Include="Strings\Problem_7_9.cs" />
     <Compile Include="Structures\BinaryTreeNode.cs" />
+    <Compile Include="Structures\DuplicateAndMissing.cs" />
     <Compile Include="Structures\HeapNode.cs" />
     <Compile Include="Structures\LinkedListNode.cs" />
     <Compile Include="Structures\MinHeap.cs" />
