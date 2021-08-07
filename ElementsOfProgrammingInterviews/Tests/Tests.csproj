@@ -68,6 +68,7 @@
     <Compile Include="DynamicProgramming\TestProblem_17_1.cs" />
     <Compile Include="DynamicProgramming\TestProblem_17_2.cs" />
     <Compile Include="DynamicProgramming\TestProblem_17_3.cs" />
+    <Compile Include="DynamicProgramming\TestProblem_17_6.cs" />
     <Compile Include="Graphs\TestProblem_19_1.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_4.cs" />
     <Compile Include="HashTables\TestProblem_13_1.cs" />
