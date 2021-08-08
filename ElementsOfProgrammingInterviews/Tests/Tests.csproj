@@ -73,6 +73,7 @@
     <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_5.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_4.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_6.cs" />
+    <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_7.cs" />
     <Compile Include="HashTables\TestProblem_13_1.cs" />
     <Compile Include="HashTables\TestProblem_13_2.cs" />
     <Compile Include="HashTables\TestProblem_13_3.cs" />
