@@ -70,6 +70,7 @@
     <Compile Include="DynamicProgramming\TestProblem_17_3.cs" />
     <Compile Include="DynamicProgramming\TestProblem_17_6.cs" />
     <Compile Include="Graphs\TestProblem_19_1.cs" />
+    <Compile Include="Graphs\TestProblem_19_7.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_5.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_4.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\TestProblem_18_6.cs" />
