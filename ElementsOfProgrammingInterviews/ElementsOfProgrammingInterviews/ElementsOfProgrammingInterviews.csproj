@@ -98,6 +98,7 @@
     <Compile Include="LinkedLists\Problem_8_9.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_1.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_10.cs" />
+    <Compile Include="PrimitiveTypes\Problem_5_11.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_2.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_3.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_4.cs" />
@@ -143,6 +144,7 @@
     <Compile Include="Structures\HeapNode.cs" />
     <Compile Include="Structures\LinkedListNode.cs" />
     <Compile Include="Structures\MinHeap.cs" />
+    <Compile Include="Structures\Rectangle.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
