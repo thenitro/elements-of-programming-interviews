@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using System.Threading;
 
 namespace ElementsOfProgrammingInterviews.Graphs
 {

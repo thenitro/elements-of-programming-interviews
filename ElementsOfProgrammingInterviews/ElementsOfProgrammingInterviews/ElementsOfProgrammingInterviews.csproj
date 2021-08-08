@@ -97,6 +97,7 @@
     <Compile Include="LinkedLists\Problem_8_8.cs" />
     <Compile Include="LinkedLists\Problem_8_9.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_1.cs" />
+    <Compile Include="PrimitiveTypes\Problem_5_10.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_2.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_3.cs" />
     <Compile Include="PrimitiveTypes\Problem_5_4.cs" />
