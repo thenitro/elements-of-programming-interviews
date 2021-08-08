@@ -67,6 +67,7 @@
     <Compile Include="DynamicProgramming\Problem_17_3.cs" />
     <Compile Include="DynamicProgramming\Problem_17_6.cs" />
     <Compile Include="Graphs\Problem_19_1.cs" />
+    <Compile Include="Graphs\Problem_19_2.cs" />
     <Compile Include="Graphs\Problem_19_7.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\Problem_18_4.cs" />
     <Compile Include="GreedyAlgorithmsAndInvariants\Problem_18_5.cs" />
