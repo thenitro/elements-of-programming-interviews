@@ -5,6 +5,8 @@ namespace ElementsOfProgrammingInterviews.Structures
         public int Data;
         public LinkedListNode Next;
         public LinkedListNode Prev;
+        public LinkedListNode Jump;
+        public int Order = -1;
 
         public LinkedListNode(int data, LinkedListNode next = null)
         {
