@@ -122,6 +122,7 @@
     <Compile Include="Sorting\Problem_14_2.cs" />
     <Compile Include="Sorting\Problem_14_4.cs" />
     <Compile Include="StacksAndQueues\Problem_9_1.cs" />
+    <Compile Include="StacksAndQueues\Problem_9_10.cs" />
     <Compile Include="StacksAndQueues\Problem_9_2.cs" />
     <Compile Include="StacksAndQueues\Problem_9_3.cs" />
     <Compile Include="StacksAndQueues\Problem_9_4.cs" />
