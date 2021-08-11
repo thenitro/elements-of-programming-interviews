@@ -64,6 +64,7 @@
     <Compile Include="BinaryTrees\TestProblem_10_11.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_12.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_13.cs" />
+    <Compile Include="BinaryTrees\TestProblem_10_14.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_16.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_2.cs" />
     <Compile Include="BinaryTrees\TestProblem_10_3.cs" />

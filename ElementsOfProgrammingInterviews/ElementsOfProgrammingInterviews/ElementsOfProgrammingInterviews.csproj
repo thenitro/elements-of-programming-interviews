@@ -58,6 +58,7 @@
     <Compile Include="BinarySearchTrees\Problem_15_2.cs" />
     <Compile Include="BinarySearchTrees\Problem_15_3.cs" />
     <Compile Include="BinaryTrees\Problem_10_10.cs" />
+    <Compile Include="BinaryTrees\Problem_10_14.cs" />
     <Compile Include="BinaryTrees\Problem_10_16.cs" />
     <Compile Include="BinaryTrees\Problem_10_1.cs" />
     <Compile Include="BinaryTrees\Problem_10_11.cs" />
