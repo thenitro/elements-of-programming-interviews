@@ -68,6 +68,7 @@
     <Compile Include="BinaryTrees\Problem_10_6.cs" />
     <Compile Include="BinaryTrees\Problem_10_7.cs" />
     <Compile Include="BinaryTrees\Problem_10_8.cs" />
+    <Compile Include="BinaryTrees\Problem_10_9.cs" />
     <Compile Include="DynamicProgramming\Problem_17_1.cs" />
     <Compile Include="DynamicProgramming\Problem_17_2.cs" />
     <Compile Include="DynamicProgramming\Problem_17_3.cs" />
