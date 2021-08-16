@@ -120,6 +120,7 @@
     <Compile Include="Recursion\TestProblem_16_2.cs" />
     <Compile Include="Searching\TestProblem_12_1.cs" />
     <Compile Include="Searching\TestProblem_12_10.cs" />
+    <Compile Include="Searching\TestProblem_12_2.cs" />
     <Compile Include="Searching\TestProblem_12_3.cs" />
     <Compile Include="Searching\TestProblem_12_4.cs" />
     <Compile Include="Searching\TestProblem_12_5.cs" />
